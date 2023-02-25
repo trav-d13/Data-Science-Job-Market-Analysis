@@ -1,0 +1,8 @@
+name: data_madness
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas=1.5
+  - jupyter=6.5
+prefix: /home/travisdawson/anaconda3/envs/data_madness
