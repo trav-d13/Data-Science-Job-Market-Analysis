@@ -4,5 +4,5 @@ channels:
 dependencies:
   - python=3.10
   - pandas=1.5
-  - jupyter=6.5
+  - jupyter
 prefix: /home/travisdawson/anaconda3/envs/data_madness
