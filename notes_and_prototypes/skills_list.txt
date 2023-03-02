@@ -1,0 +1,115 @@
+Analytics
+Algorithms
+Analysis
+Analytical
+Apache Spark
+Apache Flink
+Apache Beam
+Artificial intelligence
+Big data
+Bokeh
+Business intelligence
+C++
+C#
+Classification
+Clustering
+Communication
+Computational
+Computer science
+Confidence intervals
+Correlation
+Creativity
+Critical thinking
+Cross-functional
+Customer insights
+Dash
+Dask
+Data engineering
+Data management
+Data mining
+Data modeling
+Data visualization
+Database
+Deep learning
+Descriptive statistics
+Detail-oriented
+Development
+Dimensionality reduction
+Django
+Economics
+ETL
+Experimentation
+Exploratory data analysis
+FastAPI
+Feature engineering
+Flask
+Forecasting
+Git
+Hadoop
+Hypothesis testing
+Information retrieval
+Insight
+Integration
+Java
+JavaScript
+Kafka
+Keras
+Leadership
+Linear algebra
+Machine learning
+Management
+MapReduce
+Mathematics
+Matlab
+Matplotlib
+Metrics
+Modeling
+Natural language processing
+Neural networks
+NoSQL
+Numpy
+Object-oriented programming
+Optimization
+Pandas
+Pattern recognition
+Plotly
+Performance analysis
+Problem-solving
+Product management
+Project management
+Python
+PyTorch
+R
+Random forest
+Recommender systems
+Regression analysis
+Research
+Risk analysis
+Root cause analysis
+Sales forecasting
+Sampling
+Scala
+Scikit-learn
+Seaborn
+SQL
+Software engineering
+Spark
+Statistical inference
+Statistics
+Streamlit
+Supervised learning
+Supply chain
+Support vector machines
+Tableau
+Tensorflow
+Teamwork
+Time series analysis
+Unsupervised learning
+UX design
+Visualization
+Web development
+Workflow
+XML
+YAML
+YARN
+Zookeeper
