@@ -1,7 +1,3 @@
-Analytics
-Algorithms
-Analysis
-Analytical
 Apache Spark
 Apache Flink
 Apache Beam
@@ -11,17 +7,12 @@ Bokeh
 Business intelligence
 C++
 C#
-Classification
-Clustering
 Communication
-Computational
 Computer science
 Confidence intervals
 Correlation
 Creativity
 Critical thinking
-Cross-functional
-Customer insights
 Dash
 Dask
 Data engineering
@@ -48,8 +39,6 @@ Git
 Hadoop
 Hypothesis testing
 Information retrieval
-Insight
-Integration
 Java
 JavaScript
 Kafka
@@ -80,10 +69,8 @@ Project management
 Python
 PyTorch
 R
-Random forest
 Recommender systems
 Regression analysis
-Research
 Risk analysis
 Root cause analysis
 Sales forecasting
@@ -94,13 +81,11 @@ Seaborn
 SQL
 Software engineering
 Spark
-Statistical inference
 Statistics
 Streamlit
 Supervised learning
 Supply chain
 Support vector machines
-Tableau
 Tensorflow
 Teamwork
 Time series analysis
@@ -108,8 +93,6 @@ Unsupervised learning
 UX design
 Visualization
 Web development
-Workflow
 XML
 YAML
 YARN
-Zookeeper
