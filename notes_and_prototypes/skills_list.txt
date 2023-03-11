@@ -7,12 +7,7 @@ Bokeh
 Business intelligence
 C++
 C#
-Communication
 Computer science
-Confidence intervals
-Correlation
-Creativity
-Critical thinking
 Dash
 Dask
 Data engineering
@@ -23,8 +18,6 @@ Data visualization
 Database
 Deep learning
 Descriptive statistics
-Detail-oriented
-Development
 Dimensionality reduction
 Django
 Economics
@@ -46,7 +39,6 @@ Keras
 Leadership
 Linear algebra
 Machine learning
-Management
 MapReduce
 Mathematics
 Matlab
@@ -58,14 +50,11 @@ Neural networks
 NoSQL
 Numpy
 Object-oriented programming
-Optimization
 Pandas
 Pattern recognition
 Plotly
 Performance analysis
 Problem-solving
-Product management
-Project management
 Python
 PyTorch
 R
