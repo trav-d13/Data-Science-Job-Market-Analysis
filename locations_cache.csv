@@ -1,0 +1,839 @@
+location,address,latitude,longitude
+Amsterdam,"Amsterdam, North Holland, Netherlands",52.3730796,4.8924534
+Utrecht,"Utrecht, Netherlands",52.080985600000005,5.12768396945229
+The Hague,"The Hague, South Holland, Netherlands",52.0799838,4.3113461
+Maastricht,"Maastricht, Limburg, Netherlands",50.85798545,5.6969881818221095
+Schiphol,"Schiphol, Haarlemmermeer, North Holland, Netherlands",52.3080392,4.7621975
+Rotterdam,"Rotterdam, South Holland, Netherlands",51.9244424,4.47775
+Wageningen,"Wageningen, Gelderland, Netherlands",51.9685817,5.668298061827958
+Groningen,"Groningen, Netherlands",53.2190652,6.5680077
+Netherlands,Netherlands,52.2434979,5.6343227
+Dordrecht,"Dordrecht, South Holland, Netherlands",51.7958812,4.6779351
+Delft,"Delft, South Holland, Netherlands",51.999457199999995,4.362724538543995
+Veldhoven,"Veldhoven, North Brabant, Netherlands",51.4190691,5.4045572
+Eindhoven,"Eindhoven, North Brabant, Netherlands",51.44855695,5.450122521857143
+Veghel,"Veghel, Meierijstad, North Brabant, Netherlands",51.6134636,5.5446455
+Diemen,"Diemen, North Holland, Netherlands",52.3350493,4.984282926187014
+Nieuwegein,"Nieuwegein, Utrecht, Netherlands",52.0298704,5.0929333789192395
+Netherlands ,Netherlands,52.2434979,5.6343227
+Zaandam,"Zaandam, Zaanstad, North Holland, Netherlands",52.4424926,4.8298607
+Maarssen,"Maarssen, Stichtse Vecht, Utrecht, Netherlands",52.1384846,5.040082
+Rijswijk,"Rijswijk, South Holland, Netherlands",52.0446265,4.3188215
+Houten,"Houten, Utrecht, Netherlands",52.03061555,5.161216639426677
+Noord,"Noord, Para, Suriname",5.60067755,-55.28013661064335
+Amstelveen,"Amstelveen, North Holland, Netherlands",52.3025582,4.8467875
+Bilthoven,"Bilthoven, De Bilt, Utrecht, Netherlands",52.1289693,5.2046134
+Rosmalen,"Rosmalen, 's-Hertogenbosch, North Brabant, Netherlands",51.71866,5.3629244
+Dinteloord,"Dinteloord, Steenbergen, North Brabant, Netherlands",51.6339484,4.3680313
+South Holland,"South Holland, Netherlands",51.9966792,4.5597397
+Zwolle,"Zwolle, Overijssel, Netherlands",52.5089759,6.0943765
+Almelo,"Almelo, Overijssel, Netherlands",52.3567956,6.66725277634109
+'s-Hertogenbosch,"'s-Hertogenbosch, North Brabant, Netherlands",51.6889387,5.303116
+Doorn,"Doorn, Utrechtse Heuvelrug, Utrecht, Netherlands",52.0333163,5.3455956
+Veenendaal,"Veenendaal, Ede, Utrecht, Netherlands",52.02320415,5.551800233162295
+Duivendrecht,"Duivendrecht, Stationsplein, Duivendrecht, Ouder-Amstel, North Holland, Netherlands, 1115 BZ, Netherlands",52.3235282,4.9364854
+Leiden,"Leiden, South Holland, Netherlands",52.1594747,4.4908843
+Nijmegen,"Nijmegen, Gelderland, Netherlands",51.842574850000005,5.838960628748229
+Soest,"Soest, Kreis Soest, North Rhine-Westphalia, 59494, Germany",51.5725501,8.1061259
+Driebergen-Rijsenburg,"Driebergen-Rijsenburg, Utrechtse Heuvelrug, Utrecht, Netherlands",52.0516547,5.2836332
+Oss,"Oss, North Brabant, Netherlands",51.778354199999995,5.532083610932192
+Amersfoort,"Amersfoort, Utrecht, Netherlands",52.1562499,5.3896944
+Helmond,"Helmond, North Brabant, Netherlands",51.4790956,5.6557686
+Hoofddorp,"Hoofddorp, Haarlemmermeer, North Holland, Netherlands",52.305554,4.6926644
+Hengelo,"Hengelo, Overijssel, Netherlands",52.2658726,6.7924049
+Venlo,"Venlo, Limburg, Netherlands",51.39244885,6.1511724144122955
+Duiven,"Duiven, Gelderland, Netherlands",51.9470218,6.02303247329986
+Almere,"Almere, Flevoland, Netherlands",52.3705038,5.2185859
+Papendrecht,"Papendrecht, South Holland, Netherlands",51.834666999999996,4.704688255674374
+Haarlem,"Haarlem, North Holland, Netherlands",52.383705750000004,4.643559696559635
+Arnhem,"Arnhem, Gelderland, Netherlands",51.984257,5.9108573
+Bladel,"Bladel, North Brabant, Netherlands",51.37121075,5.234630644566941
+Bunnik,"Bunnik, Utrecht, Netherlands",52.039151849999996,5.220319799249577
+Tiel,"Tiel, Gelderland, Netherlands",51.892425349999996,5.430438174137935
+Gouda,"Gouda, Zuidplas, South Holland, Netherlands",52.018119350000006,4.711122134697802
+Breda,"Breda, North Brabant, Netherlands",51.5887845,4.7760237
+Halfweg,"Halfweg, Haarlemmermeer, North Holland, Netherlands",52.3826063,4.7546903
+Brussels,"Brussels, Brussels-Capital, Belgium",50.8465573,4.351697
+Genk,"Genk, Hasselt, Limburg, Flanders, 3600, Belgium",50.9654864,5.5001456
+Belgium,Belgium,50.6402809,4.6667145
+Ghent,"Ghent, Gent, East Flanders, Flanders, Belgium",51.0538286,3.7250121
+Ottignies-Louvain-la-Neuve,"Ottignies-Louvain-la-Neuve, Nivelles, Walloon Brabant, Wallonia, Belgium",50.6654216,4.5674107
+Antwerp,"Antwerp, Flanders, Belgium",51.2211097,4.3997081
+Leuven,"Leuven, Flemish Brabant, Flanders, Belgium",50.879202,4.7011675
+Zaventem,"Zaventem, Halle-Vilvoorde, Flemish Brabant, Flanders, Belgium",50.8806207,4.4730008
+Bruges,"Bruges, Brugge, West Flanders, Flanders, Belgium",51.2085526,3.226772
+Charleroi,"Charleroi, Hainaut, Wallonia, Belgium",50.4120332,4.4436244
+Flemish Brabant,"Flemish Brabant, Flanders, Belgium",50.8686516,4.7886237984620905
+Watermael-Boitsfort,"Watermael-Boitsfort - Watermaal-Bosvoorde, Brussels-Capital, 1170, Belgium",50.7981063,4.4176441
+Liège,"Liège, Wallonia, 4000, Belgium",50.6450944,5.5736112
+Waregem,"Waregem, Kortrijk, West Flanders, Flanders, Belgium",50.8868222,3.4323622
+Belgium ,Belgium,50.6402809,4.6667145
+Woluwe-Saint-Pierre,"Woluwe-Saint-Pierre - Sint-Pieters-Woluwe, Brussels-Capital, 1150, Belgium",50.8370253,4.4274636
+Rixensart,"Rixensart, Nivelles, Walloon Brabant, Wallonia, Belgium",50.7122504,4.5216455
+Hasselt,"Hasselt, Limburg, Flanders, Belgium",50.9303735,5.3378043
+La Hulpe,"La Hulpe, Nivelles, Walloon Brabant, Wallonia, 1310, Belgium",50.7313729,4.4893987
+Evere,"Evere, Brussels-Capital, 1140, Belgium",50.8720096,4.4034182
+Mechelen,"Mechelen, Antwerp, Flanders, Belgium",51.0281381,4.4803453
+Ternat,"Ternat, Langres, Haute-Marne, Grand Est, Metropolitan France, 52210, France",47.9058525,5.1266052
+Geel,"Geel, Turnhout, Antwerp, Flanders, 2440, Belgium",51.1610826,4.9903187
+Mol,"Molise, Italy",41.684672,14.595614
+Haacht,"Haacht, Leuven, Flemish Brabant, Flanders, 3150, Belgium",50.9769474,4.6383121
+Wavre,"Wavre, Nivelles, Walloon Brabant, Wallonia, Belgium",50.7169694,4.610416
+Sint-Martens-Latem,"Sint-Martens-Latem, Gent, East Flanders, Flanders, Belgium",51.020971,3.6397549
+Flanders,"Flanders, Belgium",51.096246199999996,4.178629103169916
+Grimbergen,"Grimbergen, Halle-Vilvoorde, Flemish Brabant, Flanders, Belgium",50.9457887,4.389109565702387
+Ghent ,"Ghent, Gent, East Flanders, Flanders, Belgium",51.0538286,3.7250121
+Merelbeke,"Merelbeke, Gent, East Flanders, Flanders, 9820, Belgium",50.995756150000005,3.74567419991459
+Kontich,"Kontich, Antwerp, Flanders, 2550, Belgium",51.1353297,4.4454784
+Laakdal,"Laakdal, Turnhout, Antwerp, Flanders, Belgium",51.0802695,5.0073022
+La Louvière,"La Louvière, Hainaut, Wallonia, 7100, Belgium",50.479487,4.1852682
+Seraing,"Seraing, Liège, Wallonia, 4100, Belgium",50.6152381,5.5089437
+Mons,"Mons, Hainaut, Wallonia, Belgium",50.4549568,3.951958
+Kruibeke,"Kruibeke, Sint-Niklaas, East Flanders, Flanders, 9150, Belgium",51.17625475,4.298036873275151
+Saint-Gilles,"Saint-Gilles, Reims, Marne, Grand Est, Metropolitan France, 51170, France",49.2801594,3.6756348
+Rumst,"Rumst, Antwerp, Flanders, 2840, Belgium",51.0792853,4.4240472
+Limburg,"Limburg, Netherlands",51.2015196,5.9046302
+Beersel,"Beersel, Halle-Vilvoorde, Flemish Brabant, Flanders, Belgium",50.747841199999996,4.30652710740871
+Namur,"Namur, Wallonia, Belgium",50.4665284,4.8661892
+Ludwigsburg,"Ludwigsburg, Landkreis Ludwigsburg, Baden-Württemberg, Germany",48.8953937,9.1895147
+Germany,Germany,51.1638175,10.4478313
+Bonn,"Bonn, North Rhine-Westphalia, Germany",50.735851,7.10066
+Munich,"Munich, Bavaria, Germany",48.1371079,11.5753822
+Berlin,"Berlin, Germany",52.5170365,13.3888599
+Ludwigshafen,"Ludwigshafen am Rhein, Rhineland-Palatinate, Germany",49.4704113,8.4381568
+Mainz,"Mainz, Rhineland-Palatinate, Germany",50.0012314,8.2762513
+Stuttgart,"Stuttgart, Baden-Württemberg, Germany",48.7784485,9.1800132
+Nuremberg,"Nuremberg, Bavaria, Germany",49.453872,11.077298
+Heilbronn,"Heilbronn, Baden-Württemberg, Germany",49.142291,9.218655
+Bochum,"Bochum, North Rhine-Westphalia, Germany",51.4818111,7.2196635
+Brunswick,"Brunswick, Lower Saxony, Germany",52.2646577,10.5236066
+Düsseldorf,"Dusseldorf, North Rhine-Westphalia, Germany",51.2254018,6.7763137
+Hanau,"Hanau, Schöneck, Main-Kinzig-Kreis, Hesse, Germany",50.132881,8.9169797
+Cologne,"Cologne, North Rhine-Westphalia, Germany",50.938361,6.959974
+Frankfurt,"Frankfurt, Hesse, Germany",50.1106444,8.6820917
+Stuttgart ,"Stuttgart, Baden-Württemberg, Germany",48.7784485,9.1800132
+Leipzig ,"Leipzig, Saxony, Germany",51.3406321,12.3747329
+Mülheim,"Mülheim an der Ruhr, North Rhine-Westphalia, Germany",51.4272925,6.8829192
+Hamburg,"Hamburg, Germany",53.550341,10.000654
+Nuremberg ,"Nuremberg, Bavaria, Germany",49.453872,11.077298
+Marktoberdorf,"Marktoberdorf, Landkreis Ostallgäu, Bavaria, 87616, Germany",47.7750654,10.6170847
+Eisenach,"Eisenach, Wutha-Farnroda, Wartburgkreis, Thuringia, 99848, Germany",50.9747134,10.3193565
+Essen,"Essen, North Rhine-Westphalia, Germany",51.4582235,7.0158171
+Siegburg,"Siegburg, Rhein-Sieg-Kreis, North Rhine-Westphalia, 53721, Germany",50.7928332,7.2070774
+Leverkusen,"Leverkusen, North Rhine-Westphalia, Germany",51.0324743,6.9881194
+Berlin ,"Berlin, Germany",52.5170365,13.3888599
+Karlsruhe,"Karlsruhe, Baden-Württemberg, Germany",49.0068705,8.4034195
+Offenburg,"Offenburg, Verwaltungsgemeinschaft Offenburg, Ortenaukreis, Baden-Württemberg, Germany",48.4716556,7.944378
+Hanover ,"Hanover, Region Hannover, Lower Saxony, Germany",52.3744779,9.7385532
+M. Gladbach,"Auf'm Büchel, Paffrath, Bergisch Gladbach, Rheinisch-Bergischer Kreis, North Rhine-Westphalia, 51469, Germany",50.9959949,7.0964289
+Oberschleißheim,"Oberschleißheim, Landkreis München, Bavaria, 85764, Germany",48.2549383,11.5546058
+Ratingen,"Ratingen, Kreis Mettmann, North Rhine-Westphalia, Germany",51.2973261,6.8493503
+Leipzig,"Leipzig, Saxony, Germany",51.3406321,12.3747329
+Heidelberg,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724
+Frankfurt ,"Frankfurt, Hesse, Germany",50.1106444,8.6820917
+Hanover,"Hanover, Region Hannover, Lower Saxony, Germany",52.3744779,9.7385532
+Bielefeld,"Bielefeld, North Rhine-Westphalia, Germany",52.0191005,8.531007
+Einbeck,"Einbeck, Landkreis Northeim, Lower Saxony, 37574, Germany",51.8185067,9.8678465
+Dresden,"Dresden, Saxony, Germany",51.0493286,13.7381437
+Gütersloh,"Gütersloh, Kreis Gütersloh, North Rhine-Westphalia, Germany",51.9063997,8.3782078
+Wuppertal,"Wuppertal, North Rhine-Westphalia, Germany",51.264018,7.1780374
+Aachen,"Aachen, Städteregion Aachen, North Rhine-Westphalia, Germany",50.776351,6.083862
+Munich ,"Munich, Bavaria, Germany",48.1371079,11.5753822
+Augsburg,"Augsburg, Bavaria, Germany",48.3668041,10.8986971
+Germany ,Germany,51.1638175,10.4478313
+North Rhine-Westphalia,"North Rhine-Westphalia, Germany",51.4789205,7.5543751
+Karlsruhe ,"Karlsruhe, Baden-Württemberg, Germany",49.0068705,8.4034195
+Meinerzhagen,"Meinerzhagen, Märkischer Kreis, North Rhine-Westphalia, 58540, Germany",51.1063495,7.6408956
+Bad Soden,"Bad Soden am Taunus, Main-Taunus-Kreis, Hesse, 65812, Germany",50.1517006,8.4899671
+Giessen,"Gießen, Landkreis Gießen, Hesse, Germany",50.5862066,8.6742306
+Sankt Augustin,"Sankt Augustin, Rhein-Sieg-Kreis, North Rhine-Westphalia, 53757, Germany",50.7752776,7.1895507
+Essen ,"Essen, North Rhine-Westphalia, Germany",51.4582235,7.0158171
+Verl,"Verl, Kreis Gütersloh, North Rhine-Westphalia, 33415, Germany",51.8830037,8.5093149
+Eschborn,"Eschborn, Main-Taunus-Kreis, Hesse, 65760, Germany",50.1426423,8.5716274
+Blomberg,"Blomberg, Kreis Lippe, North Rhine-Westphalia, 32825, Germany",51.9434473,9.0967908
+Kassel ,"Kassel, Hesse, Germany",51.3154546,9.4924096
+Wolfsburg,"Wolfsburg, Lower Saxony, Germany",52.4205588,10.7861682
+Unterföhring,"Unterföhring, Landkreis München, Bavaria, 85774, Germany",48.1950385,11.6449251
+Waldheim,"Waldheim, Mittelsachsen, Saxony, 04736, Germany",51.0770643,13.0157798
+Rheda-Wiedenbrück,"Rheda-Wiedenbrück, Kreis Gütersloh, North Rhine-Westphalia, 33378, Germany",51.8428202,8.2985615
+Oberkochen,"Oberkochen, Ostalbkreis, Baden-Württemberg, 73447, Germany",48.7855073,10.1106691
+Heuchelheim,"Heuchelheim, Landkreis Gießen, Hesse, 35452, Germany",50.5825291,8.6305978
+Böblingen,"Böblingen, Landkreis Böblingen, Baden-Württemberg, Germany",48.684969,9.0113444
+Bremen,"Bremen, Free Hanseatic City of Bremen, Germany",53.0758196,8.8071646
+Ulm,"Ulm, Baden-Württemberg, Germany",48.3974003,9.9934336
+Lippstadt,"Lippstadt, Kreis Soest, North Rhine-Westphalia, Germany",51.6747074,8.347194
+Barsinghausen,"Barsinghausen, Region Hannover, Lower Saxony, 30890, Germany",52.30223,9.4623741
+Pleidelsheim,"Pleidelsheim, Vereinbarte Verwaltungsgemeinschaft der Stadt Freiberg am Neckar, Landkreis Ludwigsburg, Baden-Württemberg, 74385, Germany",48.9596036,9.2045813
+Winnenden,"Winnenden, Gemeindeverwaltungsverband Winnenden, Rems-Murr-Kreis, Baden-Württemberg, 71364, Germany",48.8754571,9.3978478
+Gelsenkirchen,"Gelsenkirchen, North Rhine-Westphalia, Germany",51.5110321,7.0960124
+Bad Homburg,"Bad Homburg vor der Höhe, Hochtaunuskreis, Hesse, Germany",50.2267699,8.6169093
+Erfurt ,"Erfurt, Thuringia, Germany",50.9777974,11.0287364
+Ingolstadt ,"Ingolstadt, Bavaria, Germany",48.7630165,11.4250395
+Hürth,"Hürth, Rhein-Erft-Kreis, North Rhine-Westphalia, 50354, Germany",50.8807379,6.876568
+Schleswig,"Schleswig, Schleswig-Flensburg, Schleswig-Holstein, 24837, Germany",54.51851,9.5653284
+Münster,"Münster, North Rhine-Westphalia, Germany",51.9625101,7.6251879
+Oldenburg,"Oldenburg, Lower Saxony, Germany",53.1389753,8.2146017
+Gütersloh ,"Gütersloh, Kreis Gütersloh, North Rhine-Westphalia, Germany",51.9063997,8.3782078
+Ingolstadt,"Ingolstadt, Bavaria, Germany",48.7630165,11.4250395
+Neuenhagen,"Neuenhagen, Altenhagen, Treptower Tollensewinkel, Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, Germany",53.7467873,13.1115253
+Neuss,"Neuss, Rhein-Kreis Neuss, North Rhine-Westphalia, Germany",51.1981778,6.6916476
+Würzburg,"Würzburg, Bavaria, Germany",49.79245,9.932966
+Hagen,"Hagen, North Rhine-Westphalia, Germany",51.3582945,7.473296
+Jüchen,"Jüchen, Rhein-Kreis Neuss, North Rhine-Westphalia, 41363, Germany",51.1017138,6.5036893
+Künzelsau,"Künzelsau, Verwaltungsgemeinschaft Künzelsau, Hohenlohekreis, Baden-Württemberg, 74653, Germany",49.2803765,9.6901512
+Neckarsulm,"Neckarsulm, Verwaltungsgemeinschaft Neckarsulm, Landkreis Heilbronn, Baden-Württemberg, 74172, Germany",49.191133,9.2248391
+Kusterdingen,"Kusterdingen, Landkreis Tübingen, Baden-Württemberg, 72127, Germany",48.5219062,9.119644
+Manching,"Manching, Landkreis Pfaffenhofen an der Ilm, Bavaria, 85077, Germany",48.7171356,11.4940685
+Marl,Mali,16.3700359,-2.2900239
+Elmshorn,"Elmshorn, Kreis Pinneberg, Schleswig-Holstein, Germany",53.7532486,9.6524559
+Eggenstein-Leopoldshafen,"Eggenstein-Leopoldshafen, Landkreis Karlsruhe, Baden-Württemberg, 76344, Germany",49.088332,8.4003114
+Abstatt,"Abstatt, Verwaltungsverband Schozach-Bottwartal, Landkreis Heilbronn, Baden-Württemberg, 74232, Germany",49.0683107,9.2914409
+Anywhere,"Not available","Not available","Not available"
+England,"England, United Kingdom",52.5310214,-1.2649062
+Belfast,"Belfast, County Antrim, Ulster, Northern Ireland, BT1 5JD, United Kingdom",54.596391,-5.9301829
+Manchester,"Manchester, Greater Manchester, England, United Kingdom",53.4794892,-2.2451148
+Nottingham,"Nottingham, Nottinghamshire, England, United Kingdom",52.9534193,-1.1496461
+Edinburgh,"City of Edinburgh, Scotland, United Kingdom",55.9533456,-3.1883749
+Stirling,"Stirling, Stirlingshire, Scotland, FK8 2DD, United Kingdom",56.1181242,-3.9360012
+Liverpool,"Liverpool, Liverpool City Region, England, United Kingdom",53.4071991,-2.99168
+United Kingdom,United Kingdom,54.7023545,-3.2765753
+Bradford,"Bradford, West Yorkshire, England, United Kingdom",53.7944229,-1.7519186
+Derby,"Derby, Derbyshire, England, DE1 2AA, United Kingdom",52.9212617,-1.4761491
+Leicester,"Leicester, Leicestershire, England, LE1 5YA, United Kingdom",52.6362,-1.1331969
+Leeds,"Leeds, West Yorkshire, England, United Kingdom",53.7974185,-1.5437941
+Renfrewshire,"Renfrewshire, Scotland, United Kingdom",55.833333,-4.5
+Aberdeen,"Aberdeen City, Scotland, United Kingdom",57.1482429,-2.0928095
+"Warton, Preston","Warton Street, Broadgate, Avenham, Preston, Lancashire, England, PR1 8EH, United Kingdom",53.7522124,-2.7138587
+Liverpool ,"Liverpool, Liverpool City Region, England, United Kingdom",53.4071991,-2.99168
+,"Nangarhar Province, Afghanistan",34.220389,70.3800314
+Preston,"Preston, Lancashire, England, United Kingdom",53.7593363,-2.6992717
+Peterborough,"Peterborough, City of Peterborough, Cambridgeshire and Peterborough, England, PE1 1XH, United Kingdom",52.5725769,-0.2427336
+Llandudno,"Llandudno, Conwy, Wales, LL30 1AH, United Kingdom",53.322475,-3.8243251
+Macclesfield,"Macclesfield, Cheshire East, England, United Kingdom",53.2606635,-2.1255158
+Birmingham ,"Birmingham, West Midlands Combined Authority, England, United Kingdom",52.4796992,-1.9026911
+"Great Malvern, Malvern","Great Malvern, Malvern, Malvern Hills, Worcestershire, England, WR14 2AA, United Kingdom",52.1109798,-2.3285836
+Glasgow,"Glasgow, Glasgow City, Scotland, G2 1DY, United Kingdom",55.8606182,-4.2497933
+Bolton,"Bolton, Greater Manchester, England, United Kingdom",53.5782863,-2.4300367
+United Kingdom ,United Kingdom,54.7023545,-3.2765753
+Barnsley,"Barnsley, South Yorkshire Mayoral Combined Authority, England, United Kingdom",53.5527719,-1.4827755
+Belfast ,"Belfast, County Antrim, Ulster, Northern Ireland, BT1 5JD, United Kingdom",54.596391,-5.9301829
+Thornton-Cleveleys,"Thornton–Cleveleys, Victoria Road East, Trunnah, Thornton, Borough of Wyre, Lancashire, England, FY5 5HT, United Kingdom",53.8706463,-3.0000164
+Birmingham,"Birmingham, West Midlands Combined Authority, England, United Kingdom",52.4796992,-1.9026911
+Greater Manchester,"Greater Manchester, England, United Kingdom",53.50652485,-2.3374401422576687
+Belper,"Belper CP, Amber Valley, Derbyshire, England, United Kingdom",53.0229029,-1.4817414
+Solihull,"Metropolitan Borough of Solihull, West Midlands Combined Authority, England, United Kingdom",52.4130189,-1.7768935
+Manchester ,"Manchester, Greater Manchester, England, United Kingdom",53.4794892,-2.2451148
+"Staxton, Scarborough",Not available,Not available,Not available
+Coventry,"Coventry, West Midlands Combined Authority, England, United Kingdom",52.4081812,-1.510477
+Gloucester,"Gloucester, Gloucestershire, England, United Kingdom",51.8653705,-2.2458192
+Newcastle upon Tyne,"Newcastle upon Tyne, North of Tyne, England, United Kingdom",54.9738474,-1.6131572
+Bolton ,"Bolton, Greater Manchester, England, United Kingdom",53.5782863,-2.4300367
+"Derry, Londonderry","Londonderry/Derry, County Londonderry, Ulster, Northern Ireland, BT48 6BU, United Kingdom",54.9978678,-7.3213056
+Cheadle,"Cheadle, Staffordshire Moorlands, Staffordshire, England, United Kingdom",52.9884392,-1.9937596
+Scotland,"Scotland, United Kingdom",56.7861112,-4.1140518
+Shipley,"Shipley, Baildon, Bradford, West Yorkshire, England, United Kingdom",53.8321814,-1.7779777
+ CV-Library,"CV Library, 10, Waterfront Business Park, Fleet, Hart, Hampshire, England, GU51 3TX, United Kingdom",51.28869735,-0.83063685
+ DataScientistJobs,Not available,Not available,Not available
+ SonicJobs,Not available,Not available,Not available
+ Totaljobs,Not available,Not available,Not available
+ AngelList,Not available,Not available,Not available
+ Glassdoor,"Glassdoor, Pohono Street, Manzanita, Marin County, CAL Fire Contract Counties, California, 94965, United States",37.8802332,-122.514705
+ MBN Solutions,Not available,Not available,Not available
+ DataYoshi,Not available,Not available,Not available
+ Careermap,Not available,Not available,Not available
+ Independent Jobs,Not available,Not available,Not available
+York,"York, England, YO1 8SG, United Kingdom",53.9590555,-1.0815361
+Hull,"Hull, Kingston upon Hull, England, HU1 3RA, United Kingdom",53.7435722,-0.3394758
+Wolverhampton,"Wolverhampton, West Midlands Combined Authority, England, United Kingdom",52.5847651,-2.127567
+"Gaydon, Warwick","Gaydon, Stratford-on-Avon, Warwickshire, England, United Kingdom",52.183882249999996,-1.4665136858172174
+Oldham,"Oldham County, Texas, United States",35.3907651,-102.6193428
+"Hazelwood, Belper","St John The Evangelist, Hazelwood, Hob Hill, Hazelwood CP, Shottlegate, Amber Valley, Derbyshire, England, DE56 4AL, United Kingdom",53.01072755,-1.5122802457506253
+Corby,"Corby, North Northamptonshire, England, United Kingdom",52.4877341,-0.7032713
+Tewkesbury,"Tewkesbury, Gloucestershire, England, United Kingdom",51.9925394,-2.1560169592908442
+France,France,46.603354,1.8883335
+Lyon,"Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, France",45.7578137,4.8320114
+Nouvelle-Aquitaine,"Nouvelle-Aquitaine, Metropolitan France, France",45.4039367,0.3756199
+Cuy,"Cuy, Compiègne, Oise, Hauts-de-France, Metropolitan France, 60310, France",49.5862984,2.9119411
+Décines-Charpieu,"Décines-Charpieu, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69150, France",45.773606,4.9633314
+Poitiers,"Poitiers, Vienne, Nouvelle-Aquitaine, Metropolitan France, 86000, France",46.5802596,0.340196
+Villeurbanne,"Villeurbanne, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69100, France",45.7733573,4.8868454
+Auvergne-Rhône-Alpes,"Auvergne-Rhône-Alpes, Metropolitan France, France",45.2968119,4.6604809
+Marcy-l'Étoile,"Marcy-l'Étoile, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69280, France",45.7816572,4.7071338
+Oullins,"Oullins, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69600, France",45.7153254,4.8039331
+Niort,"Niort, Deux-Sèvres, Nouvelle-Aquitaine, Metropolitan France, 79000, France",46.3241132,-0.4649403
+Clermont-Ferrand,"Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, Metropolitan France, France",45.7774551,3.0819427
+Châtillon,"Châtillon, Lons-le-Saunier, Jura, Bourgogne-Franche-Comté, Metropolitan France, 39130, France",46.6591772,5.7302769
+Orléans,"Orléans, Loiret, Centre-Val de Loire, Metropolitan France, France",47.9027336,1.9086066
+Argy,"Argy, Châteauroux, Indre, Centre-Val de Loire, Metropolitan France, 36500, France",46.9404056,1.4382648
+Écully,"Écully, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69130, France",45.7754498,4.7785644
+Tours,"Tours, Arrondissement de Tours, Indre-et-Loire, Centre-Val de Loire, Metropolitan France, France",47.3900474,0.6889268
+Angers,"Angers, Maine-et-Loire, Pays de la Loire, Metropolitan France, France",47.4739884,-0.5515588
+Caluire-et-Cuire,"Caluire-et-Cuire, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69300, France",45.7969952,4.8423304
+Dijon,"Dijon, Côte-d'Or, Bourgogne-Franche-Comté, Metropolitan France, 21000, France",47.3215806,5.0414701
+Châteauvilain,"Châteauvilain, La Tour-du-Pin, Isère, Auvergne-Rhône-Alpes, Metropolitan France, 38300, France",45.515241,5.3298908
+Clermont-Ferrand ,"Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, Metropolitan France, France",45.7774551,3.0819427
+Saint-Pierre-de-Chandieu,"Saint-Pierre-de-Chandieu, Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69780, France",45.6446435,5.0100345
+Saint-Ouen,"Saint-Ouen, Amiens, Somme, Hauts-de-France, Metropolitan France, 80610, France",50.03683,2.1223737
+Le Mans,"Le Mans, Sarthe, Pays de la Loire, Metropolitan France, France",48.0073849,0.1967849
+Brières-les-Scellés,"Brières-les-Scellés, Étampes, Essonne, Ile-de-France, Metropolitan France, 91150, France",48.4577346,2.1388602
+Chalon-sur-Saône,"Chalon-sur-Saône, Saône-et-Loire, Bourgogne-Franche-Comté, Metropolitan France, 71100, France",46.7888997,4.8529605
+Chartres,"Chartres, Eure-et-Loir, Centre-Val de Loire, Metropolitan France, 28000, France",48.4438601,1.4881434
+Madrid,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, Spain",40.4167047,-3.7035825
+Barcelona,"Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",41.3828939,2.1774322
+Málaga,"Málaga, Málaga-Costa del Sol, Malaga, Andalusia, Spain",36.7213028,-4.4216366
+Spain,Spain,39.3260685,-4.8379791
+Seville,"Seville, Sevilla, Andalusia, Spain",37.3886303,-5.9953403
+Vigo,"Vigo, Pontevedra, Galicia, 36202, Spain",42.2376602,-8.7247205
+Córdoba,"Cordoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5000, Argentina",-31.4166867,-64.1834193
+Esplugues de Llobregat,"Esplugues de Llobregat, Baix Llobregat, Barcelona, Catalonia, 08950, Spain",41.3776796,2.0899722
+Tres Cantos,"Tres Cantos, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28760, Spain",40.6065826,-3.7065333
+Sant Just Desvern,"Sant Just Desvern, Baix Llobregat, Barcelona, Catalonia, 08960, Spain",41.3815832,2.0750677
+Andalusia,"Andalusia, Spain",37.3399964,-4.5811614
+"Porto, Portugal ","Porto, Portugal",41.1494512,-8.6107884
+Pozuelo de Alarcón,"Pozuelo de Alarcón, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, Spain",40.4346528,-3.814834
+Getafe,"Getafe, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, Spain",40.3081807,-3.7302679
+Almería,"Almeria, Andalusia, Spain",36.8414197,-2.4628135
+Terrassa,"Terrassa, Vallès Occidental, Barcelona, Catalonia, 08221, Spain",41.5629623,2.0100492
+Derio,"Derio, Biscay, Autonomous Community of the Basque Country, 48160, Spain",43.2907714,-2.8870439
+Amorebieta-Etxano,"Amorebieta-Etxano, Biscay, Autonomous Community of the Basque Country, 48340, Spain",43.2201761,-2.7323154
+Asturias,"Asturias, Spain",43.3133868,-5.94192
+Zaragoza,"Zaragoza, Aragon, Spain",41.6521342,-0.8809428
+Valencia,"Valencia, Comarca de València, Valencia, Valencian Community, Spain",39.4697065,-0.3763353
+Oviedo,"Oviedo, Asturias, Spain",43.3604218,-5.8450534
+Álava,"Álava, Autonomous Community of the Basque Country, Spain",42.844072249999996,-2.6820829322126283
+Gijón,"Gijón, Asturias, Spain",43.5449422,-5.66275
+Badalona,"Badalona, Barcelonès, Barcelona, Catalonia, 08911, Spain",41.4493539,2.248254
+Biscay,"Biscay, Autonomous Community of the Basque Country, Spain",43.238482000000005,-2.85163163999482
+Santiago de Compostela,"Santiago de Compostela, Santiago, A Coruña, Galicia, 15705, Spain",42.8804219,-8.5458608
+Gipuzkoa,"Gipuzkoa, Autonomous Community of the Basque Country, Spain",43.144527800000006,-2.2037955488327494
+Murcia,"Murcia, Área Metropolitana de Murcia, Region of Murcia, Spain",37.9923795,-1.1305431
+Manresa,"Manresa, Bages, Barcelona, Catalonia, Spain",41.7288939,1.8286765
+Es Mercadal,"es Mercadal, Menorca, Balearic Islands, Spain",40.0075893,4.1124562
+Barakaldo,"Barakaldo, Biscay, Autonomous Community of the Basque Country, Spain",43.29548,-2.9900933
+Vitoria-Gasteiz,"Vitoria-Gasteiz, Gasteizko kuadrilla/Cuadrilla de Vitoria, Álava, Autonomous Community of the Basque Country, Spain",42.8465088,-2.6724025
+San Sebastián de los Reyes,"San Sebastián de los Reyes, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, Spain",40.5473698,-3.6260586
+Bilbao,"Bilbao, Biscay, Autonomous Community of the Basque Country, Spain",43.2630018,-2.9350039
+Palau-solità i Plegamans,"Palau-solità i Plegamans, Vallès Occidental, Barcelona, Catalonia, 08184, Spain",41.5873942,2.1806823
+"Rome, Metropolitan City of Rome Capital",Not available,Not available,Not available
+"Naples, Metropolitan City of Naples",Not available,Not available,Not available
+"Monselice, Province of Padua",Not available,Not available,Not available
+"Milan, Metropolitan City of Milan","Milan, Lombardy, Italy",45.4641943,9.1896346
+"Turin, Metropolitan City of Turin",Not available,Not available,Not available
+"San Donato Milanese, Metropolitan City of Milan","San Donato Milanese, Milan, Lombardy, 20097, Italy",45.41807,9.27165
+"Rozzano, Metropolitan City of Milan","Rozzano, Milan, Lombardy, 20089, Italy",45.3832366,9.1541309
+Italy,Italy,42.6384261,12.674297
+Viadana Province of Mantua,Not available,Not available,Not available
+"Sesto Fiorentino, Metropolitan City of Florence","Sesto Fiorentino, Metropolitan City of Florence, Tuscany, Italy",43.831721,11.1992239
+"Assago, Metropolitan City of Milan","Assago, Milan, Lombardy, 20057, Italy",45.4053966,9.1313547
+Lombardy,"Lombardy, Italy",45.5703694,9.7732524
+"Rome, Metropolitan City of Rome Capital ",Not available,Not available,Not available
+"Bari, Metropolitan City of Bari","Condominio Bari 24 (ex 30), 24/I, Via Bari, Restocco Maroni, Ronchetto Sul Naviglio, Municipio 6, Milan, Lombardy, 20143, Italy",45.43852255,9.145544225821343
+"San Vendemiano, Province of Treviso",Not available,Not available,Not available
+"Bologna, Metropolitan City of Bologna","Bologna Road, Bologna Residential Complex, Randpark Ridge, Randburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2118, South Africa",-26.0834054,27.9435704
+"Porto San Giorgio, Province of Fermo",Not available,Not available,Not available
+"Biassono, Province of Monza and Brianza",Not available,Not available,Not available
+"Padua, Province of Padua","San Antonio de Padua Parish, Guagua-Floridablanca Road, San Antonio de Padua Subdivision, Jose Abad Santos, Guagua, Pampanga, Central Luzon, 2003, Philippines",14.971844950000001,120.59868349346166
+"Pisa, Province of Pisa","Pisa Elementary School, Pisa, Batangas, Calabarzon, Philippines",13.6340973,120.93921954019385
+"Verona, VR","Verona, Veneto, Italy",45.4384958,10.9924122
+"Cosenza, Province of Cosenza",Not available,Not available,Not available
+"Moncalieri, Metropolitan City of Turin",Not available,Not available,Not available
+Tuscany,"Tuscany, Italy",43.4586541,11.1389204
+"Parma, Province of Parma",Not available,Not available,Not available
+"Casalecchio di Reno, Metropolitan City of Bologna ",Not available,Not available,Not available
+"Lecce, Province of Lecce",Not available,Not available,Not available
+"Nule, Province of Sassari",Not available,Not available,Not available
+"Pescara, Province of Pescara","Pescara, МЗ Пешчара, Subotica, City of Subotica, North Backa Administrative District, Vojvodina, 71210, Serbia",46.1099936,19.6261278
+"Catania, Metropolitan city of Catania",Not available,Not available,Not available
+"Milan, Metropolitan City of Milan ","Milan, Lombardy, Italy",45.4641943,9.1896346
+"Sasso Marconi, Metropolitan City of Bologna",Not available,Not available,Not available
+"Poggibonsi, Province of Siena",Not available,Not available,Not available
+"Genoa, Metropolitan City of Genoa",Not available,Not available,Not available
+"Ispra, VA","Ispra, Varese, Lombardy, 21027, Italy",45.815457,8.6101375
+Emilia-Romagna,"Emilia-Romagna, Italy",44.525696,11.039437
+"Rho, Metropolitan City of Milan","Rho, Milan, Lombardy, 20017, Italy",45.528878,9.04156
+Lazio,"Lazio, Italy",41.9808038,12.7662312
+"Basiglio, Metropolitan City of Milan","Basiglio, Milan, Lombardy, Italy",45.349152,9.164589
+"Melfi, Province of Potenza",Not available,Not available,Not available
+"Neumarkt, Autonomous Province of Bolzano – South Tyrol",Not available,Not available,Not available
+Santa Vittoria d'Alba Province of Cuneo,Not available,Not available,Not available
+"Carate Brianza, Province of Monza and Brianza",Not available,Not available,Not available
+"Puglia, Province of Arezzo",Not available,Not available,Not available
+"Palermo, PA","Palermo, Sicily, Italy",38.1112268,13.3524434
+"Trieste, Province of Trieste",Not available,Not available,Not available
+Gentofte,"Gentofte, Gentofte Municipality, Capital Region of Denmark, 2900, Denmark",55.7459656,12.5510249
+Aarhus,"Aarhus, Aarhus Municipality, Central Denmark Region, 8000, Denmark",56.1496278,10.2134046
+Denmark,Denmark,55.670249,10.3333283
+Copenhagen,"Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1357, Denmark",55.6867243,12.5700724
+Lyngby,"Kongens Lyngby, Lyngby-Taarbæk Municipality, Capital Region of Denmark, 2800, Denmark",55.7718649,12.5051413
+Lillerød,"Lillerød, Allerød Municipality, Capital Region of Denmark, 3450, Denmark",55.8707776,12.3556762
+Aalborg,"Aalborg, Aalborg Municipality, North Denmark Region, 9000, Denmark",57.0462626,9.9215263
+Frederiksberg ,"Frederiksberg, Frederiksberg Municipality, Capital Region of Denmark, 1861, Denmark",55.678016,12.5326186
+Søborg,"Søborg, Gladsaxe Municipality, Capital Region of Denmark, 2870, Denmark",55.736468,12.5088728
+Viby,"Viby J., Aarhus, Aarhus Municipality, Central Denmark Region, 8260, Denmark",56.1290327,10.1624334
+Hellerup,"Hellerup, Gentofte Municipality, Capital Region of Denmark, 2900, Denmark",55.7336657,12.5655408
+Aarhus C,"Aarhus C, Lane 23, Midtbyen, Frederiksbjerg, Aarhus, Aarhus Municipality, Central Denmark Region, 8000, Denmark",56.1521676,10.2084577
+Copenhagen ,"Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1357, Denmark",55.6867243,12.5700724
+Kolding,"Kolding, Kolding Municipality, Region of Southern Denmark, 6000, Denmark",55.4894999,9.47905
+Skanderborg,"Skanderborg, Skanderborg Municipality, Central Denmark Region, 8660, Denmark",56.0351868,9.9317878
+Nordborg,"Nordborg, Sønderborg Municipality, Region of Southern Denmark, 6430, Denmark",55.0553387,9.7470524
+Bagsværd,"Bagsværd, Gladsaxe Municipality, Capital Region of Denmark, 2880, Denmark",55.7583936,12.4573112
+Lystrup,"Lystrup, Aarhus Municipality, Central Denmark Region, 8520, Denmark",56.2363205,10.238378
+Vejle,"Vejle, Vejle Municipality, Region of Southern Denmark, 7100, Denmark",55.7000057,9.5333238
+Randers,"Randers, Randers Municipality, Central Denmark Region, 8940, Denmark",56.4355428,10.0425957
+Zürich,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422
+Sempach,"Sempach, Lucerne, 6204, Switzerland",47.1353737,8.1920262
+Allschwil,"Allschwil, Bezirk Arlesheim, Basel-Landschaft, 4123, Switzerland",47.5510799,7.5365611
+Lugano,"Lugano, Circolo di Lugano ovest, Distretto di Lugano, Ticino, Switzerland",46.0050102,8.9520281
+Bern ,"Bern, Bern-Mittelland administrative district, Bernese Mittelland administrative region, Bern, Switzerland",46.9482713,7.4514512
+Bern,"Bern, Bern-Mittelland administrative district, Bernese Mittelland administrative region, Bern, Switzerland",46.9482713,7.4514512
+Bottighofen,"Bottighofen, Bezirk Kreuzlingen, Thurgau, 8598, Switzerland",47.6386883,9.2068831
+Épalinges,"Épalinges, District de Lausanne, Vaud, Switzerland",46.547327,6.6726245
+Basel,"Basel, Basel-City, Switzerland",47.5581077,7.5878261
+Lausanne,"Lausanne, District de Lausanne, Vaud, Switzerland",46.5218269,6.6327025
+Geneva,"Geneva, Switzerland",46.2017559,6.1466014
+Petit-Lancy,"Petit-Lancy, Lancy, Geneva, 1235, Switzerland",46.1909747,6.1200687
+Cham,"Chamonix-Mont-Blanc, Bonneville, Upper Savoy, Auvergne-Rhône-Alpes, Metropolitan France, 74400, France",45.9246705,6.8727506
+Horgen,"Horgen, Bezirk Horgen, Zurich, 8810, Switzerland",47.260692,8.5976831
+Fällanden,"Fällanden, Bezirk Uster, Zurich, 8117, Switzerland",47.3713238,8.6388635
+Dübendorf,"Dübendorf, Bezirk Uster, Zurich, 8600, Switzerland",47.3968244,8.6183023
+Martigny,"Martigny, Vervins, Aisne, Hauts-de-France, Metropolitan France, 02500, France",49.8597222,4.1375
+Freienbach,"Freienbach, Höfe, Schwyz, Switzerland",47.204411,8.7598816
+Lancy,"Lancy, Geneva, 1212, Switzerland",46.1839156,6.1224047
+Zurich,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422
+St Gallen,"St. Gallen, Wahlkreis St. Gallen, St. Gallen, Switzerland",47.4250593,9.3765878
+Zollikofen ,"Zollikofen, Bern-Mittelland administrative district, Bernese Mittelland administrative region, Bern, 3052, Switzerland",46.9959463,7.4576417
+Thônex,"Thônex, Geneva, 1226, Switzerland",46.1884304,6.1983858
+Zug,"Zug, Switzerland",47.1486137,8.5539378
+Urdorf,"Urdorf, Bezirk Dietikon, Zurich, 8902, Switzerland",47.384708,8.4259004
+Ittigen,"Ittigen, Bern-Mittelland administrative district, Bernese Mittelland administrative region, Bern, Switzerland",46.9790726,7.4815213
+Switzerland,Switzerland,46.7985624,8.2319736
+Fribourg,"Fribourg, Switzerland",46.6789116,7.1027113
+Roggwil,"Roggwil (BE), Oberaargau administrative district, Emmental-Oberaargau administrative region, Bern, 4914, Switzerland",47.241147,7.8230774
+Rolle,"Rolle, District de Nyon, Vaud, 1180, Switzerland",46.4601563,6.3380469
+Opfikon,"Opfikon, Bezirk Bülach, Zurich, 8152, Switzerland",47.4322671,8.5779983
+Tartegnin,"Tartegnin, District de Nyon, Vaud, 1180, Switzerland",46.4666552,6.3156804
+Aarau,"Aarau, Bezirk Aarau, Aargau, 5000, Switzerland",47.3927146,8.0444448
+Wallisellen,"Wallisellen, Bezirk Bülach, Zurich, Switzerland",47.4166195,8.5919985
+Frauenfeld,"Frauenfeld, Neunforn, Bezirk Frauenfeld, Thurgau, Switzerland",47.5561915,8.8963347
+Schlieren,"Schlieren, Bezirk Dietikon, Zurich, 8952, Switzerland",47.3965147,8.4444861
+Winterthur,"Winterthur, Bezirk Winterthur, Zurich, Switzerland",47.4991723,8.7291498
+Riehen,"Riehen, Basel-City, 4125, Switzerland",47.5816927,7.6479737
+Buchs,"Buchs (SG), Wahlkreis Werdenberg, St. Gallen, Switzerland",47.1627634,9.4764086
+Stein,"Stein, Highland, Scotland, IV55 8GA, United Kingdom",57.5175241,-6.5714139
+Root,"Root, Lucerne, 6037, Switzerland",47.1153443,8.3911091
+Baden,"Baden, Baden-Württemberg, Germany",48.1928371,8.1390286
+Locarno,"Locarno, Circolo di Locarno, Distretto di Locarno, Ticino, Switzerland",46.1695112,8.7954217
+Meyrin,"Meyrin, Geneva, Switzerland",46.2283226,6.0712016
+Saas-Fee,"Saas-Fee, Visp, Wallis, 3906, Switzerland",46.107342,7.9247055
+Schwyz,"Schwyz, Switzerland",47.0571976,8.7222073
+Sion,"Sion, Condom, Gers, Occitania, Metropolitan France, 32110, France",43.73903,0.00822
+Vienna,"Vienna, Austria",48.2083537,16.3725042
+Elsbethen,"Elsbethen, Bezirk Salzburg-Umgebung, Salzburg, 5061, Austria",47.7592351,13.0825458
+Pasching,"Pasching, Bezirk Linz-Land, Upper Austria, 4061, Austria",48.2576453,14.2044214
+Münchendorf,"Münchendorf, Gemeinde Münchendorf, Bezirk Mödling, Lower Austria, 2482, Austria",48.0298076,16.3791947
+Salzburg,"Salzburg, 5020, Austria",47.7981346,13.0464806
+Linz,"Linz, Upper Austria, Austria",48.3059078,14.286198
+Fuschl,"Fuschl am See, Bezirk Salzburg-Umgebung, Salzburg, 5330, Austria",47.7963895,13.3027787
+Austria,Austria,47.59397,14.12456
+Wolfurt,"Marktgemeinde Wolfurt, Bezirk Bregenz, Vorarlberg, 6922, Austria",47.4667813,9.750197
+Innsbruck,"Innsbruck, Tyrol, Austria",47.2654296,11.3927685
+Klagenfurt am Wörthersee,"Klagenfurt, Carinthia, Austria",46.623943,14.3075976
+Klein-Wien,"Klein-Wien, Gemeinde Furth bei Göttweig, Bezirk Krems, Lower Austria, 3511, Austria",48.3622134,15.6077794
+Gleisdorf,"Gleisdorf, Bezirk Weiz, Styria, 8200, Austria",47.106751,15.710006557612969
+Graz,"Graz, Styria, Austria",47.0708678,15.4382786
+Wiener Neudorf,"Gemeinde Wiener Neudorf, Bezirk Mödling, Lower Austria, Austria",48.0885947,16.318448723546133
+ ,Not available,Not available,Not available
+Amstetten,"Gemeinde Amstetten, Bezirk Amstetten, Lower Austria, Austria",48.0999102,14.82592060463179
+Wernberg,"Wernberg, Bezirk Villach-Land, Carinthia, 9241, Austria",46.624741,13.9321561
+Kematen an der Ybbs,"Gemeinde Kematen an der Ybbs, Bezirk Amstetten, Lower Austria, 3331, Austria",48.0451953,14.76554638967066
+Sattledt,"Sattledt, Bezirk Wels-Land, Upper Austria, 4642, Austria",48.0702992,14.0581292
+"Munich, Germany ","Munich, Bavaria, Germany",48.1371079,11.5753822
+Ernstbrunn,"Ernstbrunn, Gemeinde Ernstbrunn, Bezirk Korneuburg, Lower Austria, 2115, Austria",48.5282016,16.3628114
+Salzburg ,"Salzburg, 5020, Austria",47.7981346,13.0464806
+Steyr,"Steyr, Upper Austria, 4400, Austria",48.0390046,14.4191276
+Kematen in Tirol,"Gemeinde Kematen in Tirol, Bezirk Innsbruck-Land, Tyrol, 6175, Austria",47.2542856,11.2729463
+Bregenz,"Stadt Bregenz, Bezirk Bregenz, Vorarlberg, Austria",47.5025779,9.7472924
+Jenbach,"Marktgemeinde Jenbach, Bezirk Schwaz, Tyrol, 6200, Austria",47.39847155,11.749156910148312
+Villach,"Villach, Carinthia, Austria",46.6167284,13.8500268
+Kapfenberg,"Kapfenberg, Bezirk Bruck-Mürzzuschlag, Styria, 8605, Austria",47.4405481,15.2901669
+"Oak Brook, IL, USA","Oak Brook, DuPage County, Illinois, 60523, United States",41.8328085,-87.9289504
+United States,United States,39.7837304,-100.445882
+"Rockville, MD, USA","Rockville, Montgomery County, Maryland, United States",39.0817985,-77.1516844
+"Chantilly, VA, USA","Chantilly, Fairfax County, Virginia, United States",38.8788355,-77.40221718011088
+"Irvine, CA, USA","Irvine, Orange County, CAL Fire Southern Region, California, United States",33.6856969,-117.8259819
+"Northbrook, IL, USA","Northbrook, Northfield Township, Cook County, Illinois, United States",42.128704,-87.8265089
+"Irving, TX, USA","Irving, Dallas County, Texas, United States",32.8295183,-96.9442177
+"New York, NY, USA","New York, United States",40.7127281,-74.0060152
+"Seattle, WA, USA","Seattle, King County, Washington, United States",47.6038321,-122.330062
+"Phoenix, AZ, USA","Phoenix, Maricopa County, Arizona, United States",33.4484367,-112.074141
+"Roy, UT, USA","Roy, Weber County, Utah, 84067, United States",41.1715361,-112.0273739
+"Syracuse, NY, USA","City of Syracuse, Onondaga County, New York, United States",43.0481221,-76.1474244
+"Troy, MI, USA","Troy, Oakland County, Michigan, United States",42.6055893,-83.1499304
+"Portage, MI, USA","Portage, Kalamazoo County, Michigan, United States",42.2011538,-85.5800022
+"San Jose, CA, USA","San Jose, Santa Clara County, CAL Fire Northern Region, California, United States",37.3361663,-121.890591
+"Plano, TX, USA","Plano, Collin County, Texas, United States",33.0136764,-96.6925096
+"Houston, TX, USA","Houston, Harris County, Texas, United States",29.7589382,-95.3676974
+"Malvern, PA, USA","Malvern, Geneva County, Alabama, United States",31.1393439,-85.5191005
+"Bentonville, AR, USA","Bentonville, Benton County, Arkansas, United States",36.3728538,-94.2088172
+"Atlanta, GA, USA","Atlanta, Fulton County, Georgia, United States",33.7489924,-84.3902644
+"Albany, NY, USA","City of Albany, Albany County, New York, United States",42.6511674,-73.754968
+"San Francisco, CA, USA","San Francisco, CAL Fire Northern Region, California, United States",37.7790262,-122.419906
+"Stanhope, NJ, USA","Stanhope, Sussex County, New Jersey, 07874, United States",40.9028765,-74.7090517
+"Boston, MA, USA","Boston, Suffolk County, Massachusetts, United States",42.3554334,-71.060511
+"Topeka, KS, USA","Topeka, Shawnee County, Kansas, United States",39.049011,-95.677556
+"Bellevue, WA, USA","Bellevue, King County, Washington, United States",47.6144219,-122.192337
+"Social Circle, GA, USA","Social Circle, Walton County, Georgia, 30025, United States",33.6561723,-83.7184579
+"Austin, TX, USA","Austin, Travis County, Texas, United States",30.2711286,-97.7436995
+"Wilmington, MA, USA","Wilmington, New Castle County, Delaware, United States",39.7459468,-75.546589
+"Oak Ridge, TN, USA","Oak Ridge, Anderson County, Tennessee, United States",36.0103562,-84.2696449
+"Mountain View, CA, USA","Mountain View, Santa Clara County, CAL Fire Northern Region, California, United States",37.3893889,-122.0832101
+"Memphis, TN, USA","Memphis, Shelby County, West Tennessee, Tennessee, United States",35.1460249,-90.0517638
+"Aliso Viejo, CA, USA","Aliso Viejo, Orange County, CAL Fire Southern Region, California, 92656, United States",33.5761376,-117.7258122
+"Laurel, MD, USA","Laurel, Prince George's County, Maryland, 20707, United States",39.1044123,-76.8669233
+"Dahlgren, VA, USA","Dahlgren, King George County, Virginia, United States",38.337410500000004,-77.05488532658825
+"Washington, DC, USA","Washington, District of Columbia, United States",38.8950368,-77.0365427
+"Huntsville, AL, USA","Huntsville, Madison County, Alabama, United States",34.729847,-86.5859011
+"McLean, VA, USA","McLean, Fairfax County, Virginia, 22101, United States",38.9318369,-77.1671337963356
+"Richmond, VA, USA","Richmond, Virginia, United States",37.5385087,-77.43428
+"West Hollywood, CA, USA","West Hollywood, Los Angeles County, CAL Fire Contract Counties, California, United States",34.0923014,-118.3692894
+"Lubbock, TX, USA","Lubbock, Lubbock County, Texas, United States",33.5635206,-101.879336
+"California, USA","California, United States",36.7014631,-118.755997
+"Durham, NC, USA","Durham, Durham County, North Carolina, United States",35.996653,-78.9018053
+"Chicago, IL, USA","Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212
+"Tysons, VA, USA","Tysons, Fairfax County, Virginia, United States",38.916509000000005,-77.22578977664253
+"Grand Forks, ND, USA","Grand Forks, Grand Forks County, North Dakota, United States",47.9078244,-97.0592028
+"Chicago, IL, USA ","Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212
+"Charlotte, NC, USA","Charlotte, Mecklenburg County, North Carolina, United States",35.2272086,-80.8430827
+"Stamford, CT, United States","Stamford, Western Connecticut COG, Connecticut, United States",41.0534302,-73.5387341
+"Reston, VA, USA","Reston, Fairfax County, Virginia, United States",38.955696,-77.34188283719988
+"Herndon, VA, USA","Herndon, Fairfax County, Virginia, 20170, United States",38.9695316,-77.3859479
+"Texas, USA","Texas, United States",31.2638905,-98.5456116
+United States ,United States,39.7837304,-100.445882
+"Annapolis Junction, MD, USA","Annapolis Junction Town Center, Whitehurst, Howard County, Maryland, United States",39.125459649999996,-76.795323688298
+"Miami, FL, USA","Miami, Miami-Dade County, Florida, United States",25.7741728,-80.19362
+"Manchester, NH, USA","Manchester, Hillsborough County, New Hampshire, United States",42.9956397,-71.4547891
+"Carrollton, TX, USA","Carrollton, Dallas County, Texas, United States",32.9537349,-96.8902816
+"Berkeley, CA, USA","Berkeley, Alameda County, CAL Fire Northern Region, California, United States",37.8708393,-122.272863
+"Missoula, MT, USA","Missoula, Missoula County, Montana, United States",46.8701049,-113.995267
+"Bloomington, MN, USA ","Bloomington, Hennepin County, Minnesota, United States",44.8322405,-93.3204872
+"Stamford, CT, USA","Stamford, Western Connecticut COG, Connecticut, United States",41.0534302,-73.5387341
+"Dallas, TX, USA","Dallas, Dallas County, Texas, United States",32.7762719,-96.7968559
+"Patuxent River, MD, USA","Patuxent River, Solomons, Calvert County, Maryland, United States",38.45513645,-76.63241458000238
+"North Las Vegas, NV, USA","North Las Vegas, Clark County, Nevada, United States",36.2005843,-115.121584
+"Remote, OR, USA","Remote, Coos County, Oregon, United States",43.0059455,-123.8925908
+"Denver, CO, USA","Denver, Colorado, United States",39.7392364,-104.984862
+"Nashville, TN, USA","Nashville-Davidson, Davidson County, Tennessee, United States",36.1622767,-86.7742984
+"Greenville, SC, USA","Greenville, Greenville County, South Carolina, United States",34.851354,-82.3984882
+"Fairfax, VA, USA","Fairfax, Fairfax (city), Virginia, 20030, United States",38.8462236,-77.3063733
+"Westlake, TX, USA","Westlake, Denton County, Texas, United States",32.991226,-97.1943701
+"College Park, MD, USA","College Park, Prince George's County, Maryland, United States",38.980666,-76.9369189
+"Washington, USA","Washington, District of Columbia, United States",38.8950368,-77.0365427
+"Pittsburgh, PA, USA","Pittsburgh, Allegheny County, Pennsylvania, United States",40.4416941,-79.9900861
+"Stanford, CA, USA","Stanford, Palo Alto, Santa Clara County, CAL Fire Northern Region, California, United States",37.426540700000004,-122.17030545534064
+"Jacksonville, FL, USA","Jacksonville, Duval County, Florida, United States",30.3321838,-81.655651
+"Renton, WA, USA","Renton, King County, Washington, United States",47.4799078,-122.2034496
+"Medford, MA, USA","Medford, Middlesex County, Massachusetts, 02155, United States",42.4184296,-71.1061639
+"Burlington, MA, USA ","Burlington, Alamance County, North Carolina, United States",36.0956918,-79.4377991
+"Columbia, MD, USA","Columbia, Howard County, Maryland, United States",39.1938429,-76.86460919353361
+"St. Louis, MO, USA","St. Louis, Missouri, United States",38.6280278,-90.1910154
+"Kirkland, WA, USA","Kirkland, King County, Washington, United States",47.6859573,-122.1920249
+"Creve Coeur, MO, USA","Creve Coeur, Saint Louis County, Missouri, 63141, United States",38.6613007,-90.4423653
+"Cupertino, CA, USA","Cupertino, Santa Clara County, California, 95014, United States",37.3228934,-122.0322895
+"Lancaster, SC, USA","Lancaster County, South Carolina, United States",34.6628067,-80.700546
+"Overland Park, KS, USA","Overland Park, Johnson County, Kansas, United States",38.9742502,-94.6851702
+"Scottsdale, AZ, USA","Scottsdale, Maricopa County, Arizona, United States",33.4942189,-111.9260184
+"Jersey City, NJ, USA","Jersey City, Hudson County, New Jersey, United States",40.7215682,-74.047455
+"Palo Alto, CA, USA","Palo Alto, Santa Clara County, CAL Fire Northern Region, California, United States",37.4443293,-122.1598465
+"Pasadena, CA, USA","Pasadena, Los Angeles County, California, United States",34.1476452,-118.1444779
+"Leonia, NJ, USA","Leonia, Bergen County, New Jersey, 07605, United States",40.8617353,-73.9880495
+"Hoboken, NJ, USA","Hoboken, Hudson County, New Jersey, 07030, United States",40.7433066,-74.0323752
+"Chicago, IL, United States","Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212
+"Tampa, FL, USA","Tampa, Hillsborough County, Florida, United States",27.9477595,-82.458444
+"San Bruno, CA, USA","San Bruno, San Mateo County, CAL Fire Northern Region, California, 94066, United States",37.6261715,-122.433243
+"Henrico, VA, United States","Henrico County, Virginia, United States",37.5131191,-77.3465081
+"San Francisco, CA, USA ","San Francisco, CAL Fire Northern Region, California, United States",37.7790262,-122.419906
+"Baltimore, MD, USA","Baltimore, Maryland, United States",39.2908816,-76.610759
+"Omaha, NE, USA","Omaha, Douglas County, Nebraska, United States",41.2587459,-95.9383758
+"Philadelphia, PA, USA","Philadelphia, Philadelphia County, Pennsylvania, United States",39.9527237,-75.1635262
+"Mason, OH, USA","Mason, Warren County, Ohio, 45040, United States",39.3600586,-84.309939
+"Georgia, USA","Georgia, United States",32.3293809,-83.1137366
+"Fort Belvoir, VA, USA","Fort Belvoir, Fairfax County, Virginia, 22060, United States",38.72821225,-77.15098291295884
+"Bridgeport, CT, USA","Bridgeport, Greater Bridgeport COG, Connecticut, United States",41.1670412,-73.2048348
+"Cambridge, MA, USA","Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157
+"San Diego, CA, USA","San Diego, San Diego County, CAL Fire Southern Region, California, United States",32.7174202,-117.1627728
+"Louisville, KY, USA","Louisville, Jefferson County, Kentucky, United States",38.2542376,-85.759407
+"Kentucky, USA","Kentucky, United States",37.5726028,-85.1551411
+"Boise, ID, USA","Boise, Ada County, Idaho, United States",43.6166163,-116.200886
+"Arlington, VA, USA","Arlington County, Virginia, United States",38.8769326,-77.0893094
+"Beverly Hills, CA, USA","Beverly Hills, Los Angeles County, CAL Fire Contract Counties, California, United States",34.0696501,-118.3963062
+"Kansas City, MO, USA","Kansas City, Jackson County, Missouri, United States",39.100105,-94.5781416
+"South San Francisco, CA, USA","South San Francisco, San Mateo County, CAL Fire Northern Region, California, United States",37.6535403,-122.4168664
+"Norfolk, VA, USA","Norfolk, Virginia, United States",36.8448348,-76.2863999
+"Tacoma, WA, USA","Tacoma, Pierce County, Washington, United States",47.2495798,-122.439874
+"Arlington, TX, USA","Arlington, Tarrant County, Texas, United States",32.7355816,-97.1071186
+"Orlando, FL, USA","Orlando, Orange County, Florida, United States",28.5421109,-81.3790304
+"Alexandria, VA, USA","Alexandria, Virginia, United States",38.8051095,-77.0470229
+"Las Vegas, NV, USA","Las Vegas, Clark County, Nevada, United States",36.1672559,-115.148516
+"Norwood, MA, USA","Norwood, Norfolk County, Massachusetts, 02062, United States",42.194543,-71.1994976
+"Elm Springs, AR, USA","Elm Springs, Washington County, Arkansas, 72728, United States",36.206183,-94.2343657
+"New Lenox, IL, USA","New Lenox, Will County, Illinois, 60451, United States",41.5119761,-87.9656098
+"Shelton, CT, USA","Shelton, Naugatuck Valley COG, Connecticut, 06484, United States",41.3164856,-73.0931641
+"Bella Vista, AR, USA","Bella Vista, Benton County, Arkansas, 72715, United States",36.4678036,-94.2669727
+"Anderson, MO, USA","Anderson, McDonald County, Missouri, 64831, United States",36.650627,-94.44355
+"Rosslyn, VA, USA","Rosslyn, 1850, North Moore Street, Rosslyn, Arlington, Arlington County, Virginia, 22209, United States",38.8959791,-77.0709087
+"Cave Springs, AR, USA","Cave Springs, Benton County, Arkansas, 72718, United States",36.2634109,-94.2318728
+"Hazel Green, AL, USA","Hazel Green, Madison County, Alabama, 35750, United States",34.925627500000004,-86.5667604295989
+"Chelmsford, MA, USA","Chelmsford, Middlesex County, Massachusetts, United States",42.596876,-71.3518343
+"Johnson, AR, USA","Johnson County, Arkansas, United States",35.5600697,-93.4550108
+"Pea Ridge, AR, USA","Pea Ridge, Benton County, Arkansas, 72751, United States",36.4515042,-94.1162147
+"Fort Mill, SC, USA","Fort Mill, York County, South Carolina, United States",35.0073697,-80.9450759
+"Carlsbad, CA, USA","Carlsbad, San Diego County, CAL Fire Southern Region, California, United States",33.1580933,-117.3505966
+"San Mateo, CA, USA","San Mateo County, CAL Fire Northern Region, California, United States",37.496904,-122.3330573
+"Berkeley Heights, NJ, USA","Berkeley Heights, Union County, New Jersey, 07922, United States",40.6834349,-74.442653
+"Southlake, TX, USA","Southlake, Tarrant County, Texas, 76092, United States",32.9412363,-97.1341783
+"Dublin, OH, USA","Dublin, Washington Township, Franklin County, Ohio, United States",40.0992294,-83.1140771
+"Waterbury, CT, USA","Waterbury, Naugatuck Valley COG, Connecticut, United States",41.5538091,-73.0438362
+"Seattle, WA ","Seattle, King County, Washington, United States",47.6038321,-122.330062
+"Seattle, WA","Seattle, King County, Washington, United States",47.6038321,-122.330062
+"Redmond, WA","Redmond, King County, Washington, United States",47.6694141,-122.1238767
+"Portland, OR","Portland, Multnomah County, Oregon, United States",45.5202471,-122.674194
+"Bellevue, WA","Bellevue, King County, Washington, United States",47.6144219,-122.192337
+"Jackson, MS","Jackson, Hinds County, Mississippi, United States",32.3086744,-90.1983063
+"Atlanta, GA","Atlanta, Fulton County, Georgia, United States",33.7489924,-84.3902644
+"Gulfport, MS","Gulfport, Harrison County, Mississippi, United States",30.3674198,-89.0928155
+"Hoover, AL ","Hoover, Jefferson County, Alabama, United States",33.3864655,-86.78247922885197
+"Atlanta, GA ","Atlanta, Fulton County, Georgia, United States",33.7489924,-84.3902644
+"Gainesville, FL","Gainesville, Alachua County, Florida, United States",29.6519684,-82.3249846
+"Houston, TX","Houston, Harris County, Texas, United States",29.7589382,-95.3676974
+"Tampa, FL","Tampa, Hillsborough County, Florida, United States",27.9477595,-82.458444
+"Chapel Hill, NC","Chapel Hill, Orange County, North Carolina, United States",35.9131542,-79.05578
+"Hallandale Beach, FL","Hallandale Beach, Broward County, Florida, 33009, United States",25.9812025,-80.148379
+"Greenville, NC","Greenville, Pitt County, North Carolina, United States",35.613224,-77.3724593
+"Jacksonville, FL","Jacksonville, Duval County, Florida, United States",30.3321838,-81.655651
+"Juno Beach, FL","Juno Beach, Palm Beach County, Florida, United States",26.8797819,-80.0533743
+"Tallahassee, FL","Tallahassee, Leon County, Florida, United States",30.4380832,-84.2809332
+"Waterbury, CT","Waterbury, Naugatuck Valley COG, Connecticut, United States",41.5538091,-73.0438362
+"McLean, VA","McLean, Fairfax County, Virginia, 22101, United States",38.9318369,-77.1671337963356
+"Herndon, VA","Herndon, Fairfax County, Virginia, 20170, United States",38.9695316,-77.3859479
+"Frederick, MD","Frederick, Frederick County, Maryland, United States",39.415779,-77.4127562
+"Arlington, VA","Arlington County, Virginia, United States",38.8769326,-77.0893094
+"Chantilly, VA","Chantilly, Fairfax County, Virginia, United States",38.8788355,-77.40221718011088
+"Columbia, MD","Columbia, Howard County, Maryland, United States",39.1938429,-76.86460919353361
+"New York, NY","New York, United States",40.7127281,-74.0060152
+"Armonk, NY","Armonk, Town of North Castle, Westchester County, New York, 10504, United States",41.1264847,-73.7139777
+"Bellerose, NY","Village of Bellerose, Town of Hempstead, Nassau County, New York, United States",40.7242205,-73.7164845
+"Silver Spring, MD","Silver Spring, Montgomery County, Maryland, United States",38.9997621,-77.02403709829767
+"Columbus, IN","Columbus, Bartholomew County, Indiana, United States",39.2014405,-85.9213796
+"Pittsburgh, PA","Pittsburgh, Allegheny County, Pennsylvania, United States",40.4416941,-79.9900861
+"Alexandria, VA","Alexandria, Virginia, United States",38.8051095,-77.0470229
+"Memphis, TN","Memphis, Shelby County, West Tennessee, Tennessee, United States",35.1460249,-90.0517638
+"Charlotte, NC","Charlotte, Mecklenburg County, North Carolina, United States",35.2272086,-80.8430827
+"Stamford, CT","Stamford, Western Connecticut COG, Connecticut, United States",41.0534302,-73.5387341
+"Chevy Chase, MD","Chevy Chase, Montgomery County, Maryland, 20815, United States",38.9813699,-77.0849245
+"Charlotte, NC ","Charlotte, Mecklenburg County, North Carolina, United States",35.2272086,-80.8430827
+"Boston, MA","Boston, Suffolk County, Massachusetts, United States",42.3554334,-71.060511
+"Fort Belvoir, VA","Fort Belvoir, Fairfax County, Virginia, 22060, United States",38.72821225,-77.15098291295884
+"Dahlgren, VA","Dahlgren, King George County, Virginia, United States",38.337410500000004,-77.05488532658825
+"Nashville, TN","Nashville-Davidson, Davidson County, Tennessee, United States",36.1622767,-86.7742984
+"Edgewater Park, NJ","Edgewater Park, Edgewater Park Township, Burlington County, New Jersey, 08010, United States",40.0681666,-74.9007218
+"Albany, NY","City of Albany, Albany County, New York, United States",42.6511674,-73.754968
+"Tysons, VA","Tysons, Fairfax County, Virginia, United States",38.916509000000005,-77.22578977664253
+"Marietta, GA","Marietta, Cobb County, Georgia, United States",33.9528472,-84.5496148
+"Chicago, IL","Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212
+"Dayton, OH","Dayton, Montgomery County, Ohio, United States",39.7589478,-84.1916069
+"Irving, TX","Irving, Dallas County, Texas, United States",32.8295183,-96.9442177
+"San Antonio, TX","San Antonio, Bexar County, Texas, United States",29.4246002,-98.4951405
+"Dallas, TX","Dallas, Dallas County, Texas, United States",32.7762719,-96.7968559
+"Austin, TX","Austin, Travis County, Texas, United States",30.2711286,-97.7436995
+"Laurel, MD","Laurel, Prince George's County, Maryland, 20707, United States",39.1044123,-76.8669233
+"West Chester Township, OH","West Chester Township, Butler County, Ohio, 45069, United States",39.3357398,-84.41557411264533
+"Strongsville, OH","Strongsville, Cuyahoga County, Ohio, United States",41.3144733,-81.83511
+"Washington, DC","Washington, District of Columbia, United States",38.8950368,-77.0365427
+"North Chicago, IL","North Chicago, Lake County, Illinois, United States",42.325578,-87.8411818
+"Philadelphia, PA","Philadelphia, Philadelphia County, Pennsylvania, United States",39.9527237,-75.1635262
+"Patuxent River, MD","Patuxent River, Solomons, Calvert County, Maryland, United States",38.45513645,-76.63241458000238
+"Dearborn, MI","Dearborn, Wayne County, Michigan, United States",42.3222599,-83.1763145
+New Jersey,"New Jersey, United States",40.0757384,-74.4041622
+"Baltimore, MD","Baltimore, Maryland, United States",39.2908816,-76.610759
+"Reston, VA","Reston, Fairfax County, Virginia, United States",38.955696,-77.34188283719988
+"Annapolis Junction, MD","Annapolis Junction Town Center, Whitehurst, Howard County, Maryland, United States",39.125459649999996,-76.795323688298
+"South San Francisco, CA","South San Francisco, San Mateo County, CAL Fire Northern Region, California, United States",37.6535403,-122.4168664
+"San Francisco, CA","San Francisco, CAL Fire Northern Region, California, United States",37.7790262,-122.419906
+"San Mateo, CA","San Mateo County, CAL Fire Northern Region, California, United States",37.496904,-122.3330573
+"San Jose, CA","San Jose, Santa Clara County, CAL Fire Northern Region, California, United States",37.3361663,-121.890591
+"San Bruno, CA","San Bruno, San Mateo County, CAL Fire Northern Region, California, 94066, United States",37.6261715,-122.433243
+"Grandview, MO","Grandview, Jackson County, Missouri, 64030, United States",38.8898478,-94.5313816
+"Colorado Springs, CO","Colorado Springs, El Paso County, Colorado, 80903, United States",38.8339578,-104.825348
+"Kansas City, MO","Kansas City, Jackson County, Missouri, United States",39.100105,-94.5781416
+"Orlando, FL","Orlando, Orange County, Florida, United States",28.5421109,-81.3790304
+"Alpharetta, GA","Alpharetta, Fulton County, Georgia, United States",34.0709576,-84.2747329
+"Lake Mary, FL","Lake Mary, Seminole County, Florida, 32746, United States",28.7562749,-81.322093
+"Huntsville, AL","Huntsville, Madison County, Alabama, United States",34.729847,-86.5859011
+"New Hope, AL","New Hope, Madison County, Alabama, 35760, United States",34.5370339,-86.3944308
+Maryland,"Maryland, United States",39.5162401,-76.9382069
+"Fayetteville, NC","Fayetteville, Cumberland County, North Carolina, United States",35.0525759,-78.878292
+"Las Vegas, NV","Las Vegas, Clark County, Nevada, United States",36.1672559,-115.148516
+"San Carlos, CA ","San Carlos, San Mateo County, CAL Fire Northern Region, California, 94070, United States",37.504936,-122.261823
+"Menlo Park, CA","Menlo Park, San Mateo County, CAL Fire Northern Region, California, 94025, United States",37.4519671,-122.177992
+"Irvine, CA","Irvine, Orange County, CAL Fire Southern Region, California, United States",33.6856969,-117.8259819
+"Palo Alto, CA","Palo Alto, Santa Clara County, CAL Fire Northern Region, California, United States",37.4443293,-122.1598465
+Kentucky,"Kentucky, United States",37.5726028,-85.1551411
+"Bloomington, IN","Bloomington, Monroe County, Indiana, United States",39.1670396,-86.5342881
+"Hazel Green, AL","Hazel Green, Madison County, Alabama, 35750, United States",34.925627500000004,-86.5667604295989
+"Columbus, OH","Columbus, Franklin County, Ohio, United States",39.9622601,-83.0007065
+"Phoenix, AZ","Phoenix, Maricopa County, Arizona, United States",33.4484367,-112.074141
+"Salem, OR","Salem, Marion County, Oregon, United States",44.9391565,-123.033121
+"Boise, ID","Boise, Ada County, Idaho, United States",43.6166163,-116.200886
+"LOS ANGLS AFB, CA",Not available,Not available,Not available
+"Salt Lake City, UT","Salt Lake City, Salt Lake County, Utah, United States",40.7596198,-111.886797
+"Bella Vista, AR","Bella Vista, Benton County, Arkansas, 72715, United States",36.4678036,-94.2669727
+"Centerton, AR","Centerton, Benton County, Arkansas, 72719, United States",36.3652679,-94.2886875
+"Anderson, MO","Anderson, McDonald County, Missouri, 64831, United States",36.650627,-94.44355
+"Allen, TX","Allen, Collin County, Texas, United States",33.1031744,-96.6705503
+"Plano, TX","Plano, Collin County, Texas, United States",33.0136764,-96.6925096
+"Lombard, IL","Lombard, DuPage County, Illinois, 60148, United States",41.8864687,-88.0201536
+Illinois,"Illinois, United States",40.0796606,-89.4337288
+"Goshen, AR","Goshen, Washington County, Arkansas, 72735, United States",36.1011886,-93.9913099
+"Springfield, IL","Springfield, Sangamon County, Illinois, United States",39.7990175,-89.6439575
+"Farmington, AR","Farmington, Washington County, Arkansas, 72730, United States",36.0420248,-94.2471515
+"Cincinnati, OH","Cincinnati, Hamilton County, Ohio, United States",39.1014537,-84.5124602
+"East Orange, NJ","East Orange, Essex County, New Jersey, United States",40.767323,-74.2048677
+"Fort Bragg, NC","Fort Bragg, Hoke County, North Carolina, United States",35.140311,-79.15414649804102
+"Hanover, MD","Hanover, Howard County, Maryland, 21076, United States",39.1928853,-76.7241371
+"Norfolk, VA","Norfolk, Virginia, United States",36.8448348,-76.2863999
+"Fort Worth, TX","Fort Worth, Tarrant County, Texas, United States",32.753177,-97.3327459
+"Santa Clara, TX","Santa Clara, Guadalupe County, Texas, United States",29.5881525,-98.1737098
+"Orland Park, IL","Orland Park, Orland Township, Cook County, Illinois, 60462, United States",41.630663,-87.8536288
+"Omaha, NE","Omaha, Douglas County, Nebraska, United States",41.2587459,-95.9383758
+"Bentonville, AR","Bentonville, Benton County, Arkansas, United States",36.3728538,-94.2088172
+"Carrollton, TX","Carrollton, Dallas County, Texas, United States",32.9537349,-96.8902816
+"Brandon, FL","Brandon, Hillsborough County, Florida, United States",27.928463999999998,-82.2880507720744
+"Daly City, CA","Daly City, San Mateo County, CAL Fire Northern Region, California, 94015, United States",37.6904826,-122.47267
+"Los Angeles, CA","Los Angeles, Los Angeles County, CAL Fire Contract Counties, California, United States",34.0536909,-118.242766
+"Mountain View, CA","Mountain View, Santa Clara County, CAL Fire Northern Region, California, United States",37.3893889,-122.0832101
+"San Diego, CA","San Diego, San Diego County, CAL Fire Southern Region, California, United States",32.7174202,-117.1627728
+"Coronado, CA","Coronado, San Diego County, California, United States",32.6915199,-117.1766947
+"Ashburn, VA","Ashburn, Loudoun County, Virginia, United States",39.030019100000004,-77.46964646557657
+"Charlottesville, VA","Charlottesville, Virginia, United States",38.029306,-78.4766781
+"America, IL","Illinois, United States",40.0796606,-89.4337288
+"Bedford, MA","Bedford, Middlesex County, Massachusetts, 01730, United States",42.4917301,-71.2817947
+"Valhermoso Springs, AL, USA","Valhermoso Springs, Morgan County, Alabama, 35775, United States",34.5012035,-86.6858295
+"Bowie, MD, USA","Bowie, Prince George's County, Maryland, United States",38.9424464,-76.7301718
+"Great Falls, VA, USA","Great Falls, Fairfax County, Virginia, 22066, United States",39.0115359,-77.28048280481225
+"England, AR, USA","England, Lonoke County, Arkansas, United States",34.5442609,-91.9690285
+"Los Gatos, CA, USA","Los Gatos, Santa Clara County, California, 95030, United States",37.226611,-121.9746797
+"Cincinnati, OH, USA ","Cincinnati, Hamilton County, Ohio, United States",39.1014537,-84.5124602
+"Hillsboro, OR, USA","Hillsboro, Washington County, Oregon, United States",45.5228939,-122.989827
+"Bethesda, MD, USA","Bethesda, Montgomery County, Maryland, United States",38.98127255,-77.12335871396549
+"Hanover, MD, USA","Hanover, Howard County, Maryland, 21076, United States",39.1928853,-76.7241371
+"Silver Spring, MD, USA","Silver Spring, Montgomery County, Maryland, United States",38.9997621,-77.02403709829767
+"Tennessee Ridge, TN, USA","Tennessee Ridge, Houston County, Tennessee, United States",36.32083,-87.75447302941177
+"Wilmington, DE, USA","Wilmington, New Castle County, Delaware, United States",39.7459468,-75.546589
+"Culver City, CA, USA","Culver City, Los Angeles County, CAL Fire Contract Counties, California, United States",34.0211224,-118.396466
+"Maryland, USA","Maryland, United States",39.5162401,-76.9382069
+"La Jolla, CA, United States","La Jolla, San Diego, San Diego County, California, 92037, United States",32.8401623,-117.2740777
+"Providence, RI, USA","Providence, Providence County, Rhode Island, United States",41.8239891,-71.4128343
+"Long Beach, CA, USA","Long Beach, Los Angeles County, CAL Fire Contract Counties, California, United States",33.7690164,-118.191604
+"Anchorage, AK, USA","Anchorage, Alaska, 99501, United States",61.2163129,-149.894852
+"Juno Beach, FL, USA","Juno Beach, Palm Beach County, Florida, United States",26.8797819,-80.0533743
+"Chesterfield, MO, USA","Chesterfield, Saint Louis County, Missouri, United States",38.661953,-90.5643258
+"Ellicott City, MD, USA","Ellicott City, Howard County, Maryland, United States",39.275735850000004,-76.831741741596
+"Redmond, WA, USA","Redmond, King County, Washington, United States",47.6694141,-122.1238767
+"Harrisburg, PA, USA","Harrisburg, Dauphin County, Pennsylvania, United States",40.2663107,-76.8861122
+"Minneapolis, MN, USA","Minneapolis, Hennepin County, Minnesota, United States",44.9772995,-93.2654692
+"Santa Clara, CA, USA","Santa Clara County, CAL Fire Northern Region, California, United States",37.2333253,-121.6846349
+"Hickory, NC, USA","Hickory, Catawba County, North Carolina, United States",35.7333312,-81.3442915
+"Emory, TX, USA","Emory, Rains County, Texas, United States",32.874566,-95.7655183
+"Duarte, CA, USA","Duarte, Los Angeles County, CAL Fire Contract Counties, California, 91010, United States",34.1394513,-117.9772873
+"Princeton, NJ, USA","Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958
+"Erlanger, KY, USA","Erlanger, Kenton County, Kentucky, 41018, United States",39.0167275,-84.6007773
+"Spring House, PA, USA","Spring House, Lower Gwynedd Township, Montgomery County, Pennsylvania, 19477, United States",40.1853862,-75.2276756
+"Palatine, IL, USA","Palatine, Palatine Township, Cook County, Illinois, United States",42.1105779,-88.0336888
+"Hendersonville, TN, USA","Hendersonville, Sumner County, Tennessee, United States",36.3049177,-86.621443
+"Detroit, MI, USA ","Detroit, Wayne County, Michigan, United States",42.3315509,-83.0466403
+"DHS, VA, USA ","Sequoia/DHS, South Uhle Street, Penrose, Arlington, Arlington County, Virginia, 22211, United States",38.872676,-77.0830843
+"New Jersey, USA","New Jersey, United States",40.0757384,-74.4041622
+"Fort Worth, TX, USA","Fort Worth, Tarrant County, Texas, United States",32.753177,-97.3327459
+"Estero, FL, USA","Estero, Lee County, Florida, 33928, United States",26.4381474,-81.8067537
+"Sunnyvale, CA, USA","Sunnyvale, Santa Clara County, California, United States",37.3688301,-122.036349
+"Portland, OR, USA","Portland, Multnomah County, Oregon, United States",45.5202471,-122.674194
+"Frederick, MD, USA","Frederick, Frederick County, Maryland, United States",39.415779,-77.4127562
+"Montpelier, VT, USA","Montpelier, Washington County, Vermont, 05602, United States",44.2602164,-72.575114
+"Lowell, MA, USA","Lowell, Middlesex County, Massachusetts, United States",42.6414437,-71.3085329
+"Gaithersburg, MD, USA","Gaithersburg, Montgomery County, Maryland, United States",39.1399187,-77.1929215
+"Schiller Park, IL, USA","Schiller Park, Leyden Township, Cook County, Illinois, 60176, United States",41.9558637,-87.8708965
+"Bloomington, MN, USA","Bloomington, Hennepin County, Minnesota, United States",44.8322405,-93.3204872
+"Quantico, VA, USA","Quantico, Prince William County, Virginia, United States",38.5228755,-77.29018630447861
+"Des Moines, IA, USA","Des Moines, Polk County, Iowa, United States",41.5910323,-93.6046655
+"Grinnell, IA, USA","Grinnell, Poweshiek County, Iowa, 50112, United States",41.7430237,-92.7239637
+"Linthicum Heights, MD, USA","Linthicum, Anne Arundel County, Maryland, 21090, United States",39.2039094,-76.6597094
+"Naperville, IL, USA","Naperville, DuPage County, Illinois, United States",41.7728699,-88.1479278
+"Pensacola, FL, USA","Pensacola, Escambia County, Florida, United States",30.421309,-87.2169149
+"Richland, WA, USA","Richland, Benton County, Washington, United States",46.2804298,-119.275205
+"Cassville, MO, USA","Cassville, Barry County, Missouri, 65625, United States",36.6770111,-93.868811
+"Kalamazoo, MI, USA","Kalamazoo, Kalamazoo County, Michigan, United States",42.291707,-85.5872286
+"Findlay, OH, USA","Findlay, Hancock County, Ohio, United States",41.0413873,-83.6503982
+"Foster City, CA, USA","Foster City, San Mateo County, CAL Fire Northern Region, California, United States",37.5600336,-122.2688522
+"California City, CA, USA","California City, Kern County, California, United States",35.125801,-117.9859038
+"Morgantown, WV, USA","Morgantown, Monongalia County, West Virginia, United States",39.6296809,-79.9559437
+"Lansing, MI, USA","Lansing, Ingham County, Michigan, United States",42.7337712,-84.5553805
+"College Station, TX, USA","College Station, Brazos County, Texas, United States",30.5955289,-96.3071042
+"Woonsocket, RI, USA","Woonsocket, Providence County, Rhode Island, 02895, United States",42.0028761,-71.5147839
+"Danvers, MA, USA","Danvers, Essex County, Massachusetts, United States",42.566751,-70.9368313
+"Buffalo, NY, USA","Buffalo, Erie County, New York, United States",42.8867166,-78.8783922
+"Redmond, OR, USA","Redmond, Deschutes County, Oregon, United States",44.2726203,-121.1739212
+"Raleigh, NC, USA","Raleigh, Wake County, North Carolina, United States",35.7803977,-78.6390989
+"Massachusetts, USA ","Massachusetts, United States",42.3788774,-72.032366
+"West Lafayette, IN, USA","West Lafayette, Tippecanoe County, Indiana, United States",40.4258686,-86.9080655
+"Richardson, TX, USA ","Richardson, Dallas County, Texas, United States",32.9481789,-96.7297206
+"Fort Bragg, NC, USA","Fort Bragg, Hoke County, North Carolina, United States",35.140311,-79.15414649804102
+"Hartford, CT, USA","Hartford, Capitol Region COG, Connecticut, United States",41.764582,-72.6908547
+"West Point, PA, USA","West Point, Cullman County, Alabama, United States",34.2387103,-86.9591727
+"Spring, TX, USA","Spring, Harris County, Texas, 77373, United States",30.0798826,-95.4172549
+"Plano, TX, USA ","Plano, Collin County, Texas, United States",33.0136764,-96.6925096
+"Arlington, VA, USA ","Arlington County, Virginia, United States",38.8769326,-77.0893094
+"Fort Meade, MD, USA","Fort Meade, Anne Arundel County, Maryland, 20755, United States",39.103197949999995,-76.74651732045955
+"Los Altos, CA, USA","Los Altos, Santa Clara County, California, United States",37.3790629,-122.116578
+"Wisconsin, USA","Wisconsin, United States",44.4308975,-89.6884637
+"Plymouth Meeting, PA, USA","Plymouth Meeting, Whitemarsh Township, Montgomery County, Pennsylvania, 19444, United States",40.102332,-75.2743467
+"Boston, MA, USA ","Boston, Suffolk County, Massachusetts, United States",42.3554334,-71.060511
+"Justice, IL, USA","Justice, Lyons Township, Cook County, Illinois, 60458, United States",41.7456772,-87.8391876
+"Waterloo, IA, USA","Waterloo, Black Hawk County, Iowa, United States",42.498275,-92.3328743
+"Alameda, CA, USA ","Alameda County, CAL Fire Northern Region, California, United States",37.6090291,-121.899142
+"Charlottesville, VA, USA","Charlottesville, Virginia, United States",38.029306,-78.4766781
+"Denver City, TX, USA","Denver City, Yoakum County, Texas, 79323, United States",32.9679571,-102.8293851
+"Milwaukee, WI, USA","Milwaukee, Milwaukee County, Wisconsin, United States",43.0349931,-87.922497
+"Hayward, CA, USA","Hayward, Alameda County, CAL Fire Northern Region, California, United States",37.6688205,-122.080796
+"Strongsville, OH, USA","Strongsville, Cuyahoga County, Ohio, United States",41.3144733,-81.83511
+"Charleston, WV, USA","Charleston, Kanawha County, West Virginia, United States",38.3505995,-81.6332812
+"Dearborn, MI, USA","Dearborn, Wayne County, Michigan, United States",42.3222599,-83.1763145
+"Texas City, TX, USA","Texas City, Galveston County, Texas, United States",29.396013,-94.9175485
+"North Chicago, IL, USA","North Chicago, Lake County, Illinois, United States",42.325578,-87.8411818
+"Redwood City, CA, USA","Redwood City, San Mateo County, CAL Fire Northern Region, California, United States",37.4863239,-122.232523
+"Centennial, CO, USA","Centennial, Arapahoe County, Colorado, 80121, United States",39.579155,-104.8769227
+"Trenton, NJ, USA","Trenton, Mercer County, New Jersey, United States",40.2205944,-74.7597219
+"Alpharetta, GA, USA","Alpharetta, Fulton County, Georgia, United States",34.0709576,-84.2747329
+"Sugar Land, TX, USA","Sugar Land, Fort Bend County, Texas, United States",29.6196787,-95.6349463
+"Itasca, IL, USA","Itasca, DuPage County, Illinois, 60143, United States",41.9751722,-88.0067509
+"Detroit, MI, USA","Detroit, Wayne County, Michigan, United States",42.3315509,-83.0466403
+"Bolingbrook, IL, USA","Bolingbrook, Will County, Illinois, United States",41.7003302,-88.0717708
+"Chattanooga, TN, USA","Chattanooga, Hamilton County, East Tennessee, Tennessee, United States",35.0457219,-85.3094883
+"Clarksburg, WV, USA","Clarksburg, Harrison County, West Virginia, 26301, United States",39.2806451,-80.3445341
+"Waterbury Village Historic District, VT, USA","Waterbury Village Historic District, Waterbury, Washington County, Vermont, 05676, United States",44.3378343,-72.7565067
+"New York, NY, USA ","New York, United States",40.7127281,-74.0060152
+"Joint Base Pearl Harbor-Hickam, HI, USA","Joint Base Pearl Harbor-Hickam, Waipahu, Honolulu County, Hawaii, 96853, United States",21.34072085,-157.94841664465193
+"Tampa, FL, USA ","Tampa, Hillsborough County, Florida, United States",27.9477595,-82.458444
+"Baton Rouge, LA, USA","Baton Rouge, East Baton Rouge Parish, Louisiana, United States",30.4507936,-91.1391153
+"Tennessee, USA","Tennessee, United States",35.7730076,-86.2820081
+"New Mexico, USA","New Mexico, United States",34.5708167,-105.993007
+"Myrtle Point, OR, USA","Myrtle Point, Coos County, Oregon, United States",43.0635936,-124.1392815
+"McLean, VA, United States","McLean, Fairfax County, Virginia, 22101, United States",38.9318369,-77.1671337963356
+"Wauwatosa, WI, USA","Wauwatosa, Milwaukee County, Wisconsin, United States",43.0494122,-88.0079271
+"Rockville, MD, USA ","Rockville, Montgomery County, Maryland, United States",39.0817985,-77.1516844
+"Mesquite, TX, USA","Mesquite, Dallas County, Texas, United States",32.7666103,-96.599472
+"Auburn Hills, MI, USA","Auburn Hills, Oakland County, Michigan, 48326, United States",42.6875323,-83.2341028
+"San Francisco, CA, United States","San Francisco, CAL Fire Northern Region, California, United States",37.7790262,-122.419906
+"Remote, OR, USA ","Remote, Coos County, Oregon, United States",43.0059455,-123.8925908
+"Juneau, AK, USA","Juneau, Alaska, United States",58.3019496,-134.419734
+"Englewood, CO, USA","Englewood, Arapahoe County, Colorado, 80110, United States",39.6482059,-104.9879641
+"Cleveland, OH, USA","Cleveland, Cuyahoga County, Ohio, United States",41.4996574,-81.6936772
