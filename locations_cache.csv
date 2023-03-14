@@ -30,7 +30,7 @@ Zwolle,"Zwolle, Overijssel, Netherlands",52.5089759,6.0943765
 Almelo,"Almelo, Overijssel, Netherlands",52.3567956,6.66725277634109
 's-Hertogenbosch,"'s-Hertogenbosch, North Brabant, Netherlands",51.6889387,5.303116
 Doorn,"Doorn, Utrechtse Heuvelrug, Utrecht, Netherlands",52.0333163,5.3455956
-Veenendaal,"Veenendaal, Ede, Utrecht, Netherlands",52.02320415,5.551800233162295
+Veenendaal,"Veenendaal, Utrecht, Netherlands",52.02320415,5.551800233162295
 Duivendrecht,"Duivendrecht, Stationsplein, Duivendrecht, Ouder-Amstel, North Holland, Netherlands, 1115 BZ, Netherlands",52.3235282,4.9364854
 Leiden,"Leiden, South Holland, Netherlands",52.1594747,4.4908843
 Nijmegen,"Nijmegen, Gelderland, Netherlands",51.842574850000005,5.838960628748229
@@ -50,7 +50,7 @@ Arnhem,"Arnhem, Gelderland, Netherlands",51.984257,5.9108573
 Bladel,"Bladel, North Brabant, Netherlands",51.37121075,5.234630644566941
 Bunnik,"Bunnik, Utrecht, Netherlands",52.039151849999996,5.220319799249577
 Tiel,"Tiel, Gelderland, Netherlands",51.892425349999996,5.430438174137935
-Gouda,"Gouda, Zuidplas, South Holland, Netherlands",52.018119350000006,4.711122134697802
+Gouda,"Gouda, South Holland, Netherlands",52.018119350000006,4.711122134697802
 Breda,"Breda, North Brabant, Netherlands",51.5887845,4.7760237
 Halfweg,"Halfweg, Haarlemmermeer, North Holland, Netherlands",52.3826063,4.7546903
 Brussels,"Brussels, Brussels-Capital, Belgium",50.8465573,4.351697
@@ -69,7 +69,7 @@ Liège,"Liège, Wallonia, 4000, Belgium",50.6450944,5.5736112
 Waregem,"Waregem, Kortrijk, West Flanders, Flanders, Belgium",50.8868222,3.4323622
 Belgium ,Belgium,50.6402809,4.6667145
 Woluwe-Saint-Pierre,"Woluwe-Saint-Pierre - Sint-Pieters-Woluwe, Brussels-Capital, 1150, Belgium",50.8370253,4.4274636
-Rixensart,"Rixensart, Nivelles, Walloon Brabant, Wallonia, Belgium",50.7122504,4.5216455
+Rixensart,"Rixensart, Nivelles, Walloon Brabant, Wallonia, Belgium",50.7122566,4.5216218
 Hasselt,"Hasselt, Limburg, Flanders, Belgium",50.9303735,5.3378043
 La Hulpe,"La Hulpe, Nivelles, Walloon Brabant, Wallonia, 1310, Belgium",50.7313729,4.4893987
 Evere,"Evere, Brussels-Capital, 1140, Belgium",50.8720096,4.4034182
@@ -83,7 +83,7 @@ Sint-Martens-Latem,"Sint-Martens-Latem, Gent, East Flanders, Flanders, Belgium",
 Flanders,"Flanders, Belgium",51.096246199999996,4.178629103169916
 Grimbergen,"Grimbergen, Halle-Vilvoorde, Flemish Brabant, Flanders, Belgium",50.9457887,4.389109565702387
 Ghent ,"Ghent, Gent, East Flanders, Flanders, Belgium",51.0538286,3.7250121
-Merelbeke,"Merelbeke, Gent, East Flanders, Flanders, 9820, Belgium",50.995756150000005,3.74567419991459
+Merelbeke,"Merelbeke, Gent, East Flanders, Flanders, Belgium",50.995756150000005,3.74567419991459
 Kontich,"Kontich, Antwerp, Flanders, 2550, Belgium",51.1353297,4.4454784
 Laakdal,"Laakdal, Turnhout, Antwerp, Flanders, Belgium",51.0802695,5.0073022
 La Louvière,"La Louvière, Hainaut, Wallonia, 7100, Belgium",50.479487,4.1852682
@@ -108,7 +108,7 @@ Heilbronn,"Heilbronn, Baden-Württemberg, Germany",49.142291,9.218655
 Bochum,"Bochum, North Rhine-Westphalia, Germany",51.4818111,7.2196635
 Brunswick,"Brunswick, Lower Saxony, Germany",52.2646577,10.5236066
 Düsseldorf,"Dusseldorf, North Rhine-Westphalia, Germany",51.2254018,6.7763137
-Hanau,"Hanau, Schöneck, Main-Kinzig-Kreis, Hesse, Germany",50.132881,8.9169797
+Hanau,"Hanau, Main-Kinzig-Kreis, Hesse, Germany",50.132881,8.9169797
 Cologne,"Cologne, North Rhine-Westphalia, Germany",50.938361,6.959974
 Frankfurt,"Frankfurt, Hesse, Germany",50.1106444,8.6820917
 Stuttgart ,"Stuttgart, Baden-Württemberg, Germany",48.7784485,9.1800132
@@ -175,7 +175,7 @@ Münster,"Münster, North Rhine-Westphalia, Germany",51.9625101,7.6251879
 Oldenburg,"Oldenburg, Lower Saxony, Germany",53.1389753,8.2146017
 Gütersloh ,"Gütersloh, Kreis Gütersloh, North Rhine-Westphalia, Germany",51.9063997,8.3782078
 Ingolstadt,"Ingolstadt, Bavaria, Germany",48.7630165,11.4250395
-Neuenhagen,"Neuenhagen, Altenhagen, Treptower Tollensewinkel, Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, Germany",53.7467873,13.1115253
+Neuenhagen,"Neuenhagen bei Berlin, Märkisch-Oderland, Brandenburg, 15366, Germany",52.5261884,13.6889259
 Neuss,"Neuss, Rhein-Kreis Neuss, North Rhine-Westphalia, Germany",51.1981778,6.6916476
 Würzburg,"Würzburg, Bavaria, Germany",49.79245,9.932966
 Hagen,"Hagen, North Rhine-Westphalia, Germany",51.3582945,7.473296
@@ -188,9 +188,9 @@ Marl,Mali,16.3700359,-2.2900239
 Elmshorn,"Elmshorn, Kreis Pinneberg, Schleswig-Holstein, Germany",53.7532486,9.6524559
 Eggenstein-Leopoldshafen,"Eggenstein-Leopoldshafen, Landkreis Karlsruhe, Baden-Württemberg, 76344, Germany",49.088332,8.4003114
 Abstatt,"Abstatt, Verwaltungsverband Schozach-Bottwartal, Landkreis Heilbronn, Baden-Württemberg, 74232, Germany",49.0683107,9.2914409
-Anywhere,"Not available","Not available","Not available"
+Anywhere,Not available,Not available,Not available
 England,"England, United Kingdom",52.5310214,-1.2649062
-Belfast,"Belfast, County Antrim, Ulster, Northern Ireland, BT1 5JD, United Kingdom",54.596391,-5.9301829
+Belfast,"Belfast, County Antrim, Northern Ireland, BT1 5JD, United Kingdom",54.596391,-5.9301829
 Manchester,"Manchester, Greater Manchester, England, United Kingdom",53.4794892,-2.2451148
 Nottingham,"Nottingham, Nottinghamshire, England, United Kingdom",52.9534193,-1.1496461
 Edinburgh,"City of Edinburgh, Scotland, United Kingdom",55.9533456,-3.1883749
@@ -211,12 +211,12 @@ Peterborough,"Peterborough, City of Peterborough, Cambridgeshire and Peterboroug
 Llandudno,"Llandudno, Conwy, Wales, LL30 1AH, United Kingdom",53.322475,-3.8243251
 Macclesfield,"Macclesfield, Cheshire East, England, United Kingdom",53.2606635,-2.1255158
 Birmingham ,"Birmingham, West Midlands Combined Authority, England, United Kingdom",52.4796992,-1.9026911
-"Great Malvern, Malvern","Great Malvern, Malvern, Malvern Hills, Worcestershire, England, WR14 2AA, United Kingdom",52.1109798,-2.3285836
+"Great Malvern, Malvern","Great Malvern, Malvern, Malvern Hills, Worcestershire, England, WR14 2XH, United Kingdom",52.1109798,-2.3285836
 Glasgow,"Glasgow, Glasgow City, Scotland, G2 1DY, United Kingdom",55.8606182,-4.2497933
 Bolton,"Bolton, Greater Manchester, England, United Kingdom",53.5782863,-2.4300367
 United Kingdom ,United Kingdom,54.7023545,-3.2765753
 Barnsley,"Barnsley, South Yorkshire Mayoral Combined Authority, England, United Kingdom",53.5527719,-1.4827755
-Belfast ,"Belfast, County Antrim, Ulster, Northern Ireland, BT1 5JD, United Kingdom",54.596391,-5.9301829
+Belfast ,"Belfast, County Antrim, Northern Ireland, BT1 5JD, United Kingdom",54.596391,-5.9301829
 Thornton-Cleveleys,"Thornton–Cleveleys, Victoria Road East, Trunnah, Thornton, Borough of Wyre, Lancashire, England, FY5 5HT, United Kingdom",53.8706463,-3.0000164
 Birmingham,"Birmingham, West Midlands Combined Authority, England, United Kingdom",52.4796992,-1.9026911
 Greater Manchester,"Greater Manchester, England, United Kingdom",53.50652485,-2.3374401422576687
@@ -228,7 +228,7 @@ Coventry,"Coventry, West Midlands Combined Authority, England, United Kingdom",5
 Gloucester,"Gloucester, Gloucestershire, England, United Kingdom",51.8653705,-2.2458192
 Newcastle upon Tyne,"Newcastle upon Tyne, North of Tyne, England, United Kingdom",54.9738474,-1.6131572
 Bolton ,"Bolton, Greater Manchester, England, United Kingdom",53.5782863,-2.4300367
-"Derry, Londonderry","Londonderry/Derry, County Londonderry, Ulster, Northern Ireland, BT48 6BU, United Kingdom",54.9978678,-7.3213056
+"Derry, Londonderry","Londonderry/Derry, County Londonderry, Northern Ireland, BT48 6BU, United Kingdom",54.9978678,-7.3213056
 Cheadle,"Cheadle, Staffordshire Moorlands, Staffordshire, England, United Kingdom",52.9884392,-1.9937596
 Scotland,"Scotland, United Kingdom",56.7861112,-4.1140518
 Shipley,"Shipley, Baildon, Bradford, West Yorkshire, England, United Kingdom",53.8321814,-1.7779777
@@ -237,7 +237,7 @@ Shipley,"Shipley, Baildon, Bradford, West Yorkshire, England, United Kingdom",53
  SonicJobs,Not available,Not available,Not available
  Totaljobs,Not available,Not available,Not available
  AngelList,Not available,Not available,Not available
- Glassdoor,"Glassdoor, Pohono Street, Manzanita, Marin County, CAL Fire Contract Counties, California, 94965, United States",37.8802332,-122.514705
+ Glassdoor,"Glassdoor, Pohono Street, Manzanita, Marin County, California, 94965, United States",37.8802332,-122.514705
  MBN Solutions,Not available,Not available,Not available
  DataYoshi,Not available,Not available,Not available
  Careermap,Not available,Not available,Not available
@@ -246,7 +246,7 @@ York,"York, England, YO1 8SG, United Kingdom",53.9590555,-1.0815361
 Hull,"Hull, Kingston upon Hull, England, HU1 3RA, United Kingdom",53.7435722,-0.3394758
 Wolverhampton,"Wolverhampton, West Midlands Combined Authority, England, United Kingdom",52.5847651,-2.127567
 "Gaydon, Warwick","Gaydon, Stratford-on-Avon, Warwickshire, England, United Kingdom",52.183882249999996,-1.4665136858172174
-Oldham,"Oldham County, Texas, United States",35.3907651,-102.6193428
+Oldham,"Oldham County, United States",35.3907651,-102.6193428
 "Hazelwood, Belper","St John The Evangelist, Hazelwood, Hob Hill, Hazelwood CP, Shottlegate, Amber Valley, Derbyshire, England, DE56 4AL, United Kingdom",53.01072755,-1.5122802457506253
 Corby,"Corby, North Northamptonshire, England, United Kingdom",52.4877341,-0.7032713
 Tewkesbury,"Tewkesbury, Gloucestershire, England, United Kingdom",51.9925394,-2.1560169592908442
@@ -323,17 +323,17 @@ Palau-solità i Plegamans,"Palau-solità i Plegamans, Vallès Occidental, Barcel
 "Rozzano, Metropolitan City of Milan","Rozzano, Milan, Lombardy, 20089, Italy",45.3832366,9.1541309
 Italy,Italy,42.6384261,12.674297
 Viadana Province of Mantua,Not available,Not available,Not available
-"Sesto Fiorentino, Metropolitan City of Florence","Sesto Fiorentino, Metropolitan City of Florence, Tuscany, Italy",43.831721,11.1992239
+"Sesto Fiorentino, Metropolitan City of Florence","Sesto Fiorentino, Florence, Tuscany, Italy",43.831721,11.1992239
 "Assago, Metropolitan City of Milan","Assago, Milan, Lombardy, 20057, Italy",45.4053966,9.1313547
 Lombardy,"Lombardy, Italy",45.5703694,9.7732524
 "Rome, Metropolitan City of Rome Capital ",Not available,Not available,Not available
-"Bari, Metropolitan City of Bari","Condominio Bari 24 (ex 30), 24/I, Via Bari, Restocco Maroni, Ronchetto Sul Naviglio, Municipio 6, Milan, Lombardy, 20143, Italy",45.43852255,9.145544225821343
+"Bari, Metropolitan City of Bari","Condominio Bari 20 (ex 22), Via Bari, Ronchetto Sul Naviglio, Municipio 6, Milan, Lombardy, 20142, Italy",45.4389172,9.147307411337817
 "San Vendemiano, Province of Treviso",Not available,Not available,Not available
 "Bologna, Metropolitan City of Bologna","Bologna Road, Bologna Residential Complex, Randpark Ridge, Randburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2118, South Africa",-26.0834054,27.9435704
 "Porto San Giorgio, Province of Fermo",Not available,Not available,Not available
 "Biassono, Province of Monza and Brianza",Not available,Not available,Not available
 "Padua, Province of Padua","San Antonio de Padua Parish, Guagua-Floridablanca Road, San Antonio de Padua Subdivision, Jose Abad Santos, Guagua, Pampanga, Central Luzon, 2003, Philippines",14.971844950000001,120.59868349346166
-"Pisa, Province of Pisa","Pisa Elementary School, Pisa, Batangas, Calabarzon, Philippines",13.6340973,120.93921954019385
+"Pisa, Province of Pisa","Pisa Elementary School, Pisa, Tingloy, Batangas, Calabarzon, Philippines",13.6340973,120.93921954019385
 "Verona, VR","Verona, Veneto, Italy",45.4384958,10.9924122
 "Cosenza, Province of Cosenza",Not available,Not available,Not available
 "Moncalieri, Metropolitan City of Turin",Not available,Not available,Not available
@@ -544,7 +544,7 @@ United States ,United States,39.7837304,-100.445882
 "Scottsdale, AZ, USA","Scottsdale, Maricopa County, Arizona, United States",33.4942189,-111.9260184
 "Jersey City, NJ, USA","Jersey City, Hudson County, New Jersey, United States",40.7215682,-74.047455
 "Palo Alto, CA, USA","Palo Alto, Santa Clara County, CAL Fire Northern Region, California, United States",37.4443293,-122.1598465
-"Pasadena, CA, USA","Pasadena, Los Angeles County, California, United States",34.1476452,-118.1444779
+"Pasadena, CA, USA","Pasadena, Los Angeles County, CAL Fire Contract Counties, California, United States",34.1476452,-118.1444779
 "Leonia, NJ, USA","Leonia, Bergen County, New Jersey, 07605, United States",40.8617353,-73.9880495
 "Hoboken, NJ, USA","Hoboken, Hudson County, New Jersey, 07030, United States",40.7433066,-74.0323752
 "Chicago, IL, United States","Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212
@@ -837,3 +837,94 @@ Illinois,"Illinois, United States",40.0796606,-89.4337288
 "Juneau, AK, USA","Juneau, Alaska, United States",58.3019496,-134.419734
 "Englewood, CO, USA","Englewood, Arapahoe County, Colorado, 80110, United States",39.6482059,-104.9879641
 "Cleveland, OH, USA","Cleveland, Cuyahoga County, Ohio, United States",41.4996574,-81.6936772
+"Florida, USA","Florida, United States",27.7567667,-81.4639835
+"Lake Mary, FL, USA","Lake Mary, Seminole County, Florida, 32746, United States",28.7562749,-81.322093
+"Vienna, VA, USA","Vienna, Fairfax County, Virginia, 22180, United States",38.9013729,-77.2651762
+"Douglasville, GA, USA","Douglasville, Douglas County, Georgia, 30133, United States",33.7514966,-84.7477136
+"Narragansett, RI, USA ","Narragansett, South County, Rhode Island, 02882, United States",41.4501021,-71.4495005
+"Arizona City, AZ, USA","Arizona City, Pinal County, Arizona, United States",32.748400000000004,-111.67590514853674
+"Richland, WA, USA ","Richland, Benton County, Washington, United States",46.2804298,-119.275205
+"Framingham, MA, USA","Framingham, Middlesex County, Massachusetts, United States",42.3095704,-71.4413097
+"Fayetteville, NC, USA","Fayetteville, Cumberland County, North Carolina, United States",35.0525759,-78.878292
+"Eden Prairie, MN, USA","Eden Prairie, Hennepin County, Minnesota, United States",44.8546856,-93.470786
+"Hartford, CT, USA ","Hartford, Capitol Region COG, Connecticut, United States",41.764582,-72.6908547
+"Los Angeles, CA, USA","Los Angeles, Los Angeles County, CAL Fire Contract Counties, California, United States",34.0536909,-118.242766
+"Richmond, CA, United States","Richmond, Contra Costa County, CAL Fire Northern Region, California, United States",37.9357576,-122.347748
+"Livermore, CA, USA","Livermore, Alameda County, CAL Fire Northern Region, California, 94550, United States",37.6820583,-121.768053
+"Riverwoods, IL, USA","Riverwoods, Lake County, Illinois, United States",42.1676068,-87.8970986
+"St. Louis, MO, USA ","St. Louis, Missouri, United States",38.6280278,-90.1910154
+"Iowa, USA","Iowa, United States",41.9216734,-93.3122705
+"Tempe, AZ, USA","Tempe, Maricopa County, Arizona, United States",33.4255117,-111.9400164
+"Fremont, CA, USA","Fremont, Alameda County, CAL Fire Northern Region, California, United States",37.5482697,-121.988571
+"Burnsville, NC, USA","Burnsville, Yancey County, North Carolina, United States",35.9172243,-82.2996695
+"Green Bay, WI, USA","Green Bay, Brown County, Wisconsin, United States",44.5126379,-88.0125794
+"Dover, DE, USA","Dover, Kent County, Delaware, United States",39.158168,-75.5243682
+"Fresno, CA, United States","Fresno, Fresno County, California, United States",36.7295295,-119.70886126075588
+"Santa Monica, CA, USA","Santa Monica, Los Angeles County, CAL Fire Contract Counties, California, United States",34.0194704,-118.491227
+"San Antonio, TX, USA","San Antonio, Bexar County, Texas, United States",29.4246002,-98.4951405
+"Salt Lake City, UT, USA","Salt Lake City, Salt Lake County, Utah, United States",40.7596198,-111.886797
+"Homestead, FL, USA","Homestead, Miami-Dade County, Florida, United States",25.4718946,-80.4759905
+"Salem, OR, USA","Salem, Marion County, Oregon, United States",44.9391565,-123.033121
+"New York, USA","New York, United States",40.7127281,-74.0060152
+"Virginia, USA","Virginia, United States",37.1232245,-78.4927721
+"Glen Allen, VA, USA","Glen Allen, Henrico County, Virginia, United States",37.664879,-77.48712356574592
+"Costa Mesa, CA, USA","Costa Mesa, Orange County, CAL Fire Contract Counties, California, United States",33.6633386,-117.903317
+"Fort Valley, VA, USA","Fort Barnard Heights, Green Valley, Shirlington, Arlington, Arlington County, Virginia, 22206, United States",38.8465015,-77.0894226
+"Tucker, GA, USA","Tucker, DeKalb County, Georgia, 30084, United States",33.85162905,-84.22374316732959
+"St. Petersburg, FL, USA","Saint Petersburg, Pinellas County, Florida, United States",27.7703796,-82.6695085
+"Garland, TX, USA","Garland, Dallas County, Texas, United States",32.912624,-96.6388833
+"Dale City, VA, USA","Dale City, Prince William County, Virginia, United States",38.646283,-77.34348425252524
+"Aurora, CO, USA","Aurora, Aurora Township, Kane County, Illinois, United States",41.7571701,-88.3147539
+"Parsippany-Troy Hills, NJ, USA","Parsippany-Troy Hills, Morris County, New Jersey, United States",40.8646542,-74.4157768
+"Chagrin Falls, OH, USA","Chagrin Falls, Cuyahoga County, Ohio, United States",41.436589,-81.3855058
+"Blue Bell, PA, USA","Blue Bell, Whitpain Township, Montgomery County, Pennsylvania, 19422, United States",40.152331,-75.266289
+"Augusta, GA, USA","Augusta, Richmond County, Georgia, United States",33.4709714,-81.9748429
+"Ampthill, VA, USA","Ampthill Road, Westhampton, Richmond, Virginia, 23226, United States",37.5643196,-77.5161182
+"Fort Knox, KY, USA","Fort Knox, Hardin County, Kentucky, 40121, United States",37.897655150000006,-85.90385212370151
+"Hyattsville, MD, USA","Hyattsville, Prince George's County, Maryland, 20782, United States",38.9529442,-76.9408647
+"Minneota, MN, USA","Minneota, Lyon County, Minnesota, 56264, United States",44.55885,-95.985586
+"Armonk, NY, USA","Armonk, Town of North Castle, Westchester County, New York, 10504, United States",41.1264847,-73.7139777
+"Hapeville, GA, USA","Hapeville, Fulton County, Georgia, 30394, United States",33.660109,-84.4102046
+"Farmington, AR, USA","Farmington, Washington County, Arkansas, 72730, United States",36.0420248,-94.2471515
+"Annapolis, MD, USA","Annapolis, Anne Arundel County, Maryland, United States",38.9786401,-76.492786
+"Calumet City, IL, USA","Calumet City, Thornton Township, Cook County, Illinois, 60409, United States",41.616016,-87.5295837
+"South Hempstead, NY, USA","South Hempstead, Town of Hempstead, Nassau County, New York, 11571, United States",40.68134,-73.623334
+"Warners, NY, USA","Warners, Town of Van Buren, Onondaga County, New York, 13164, United States",43.0853445,-76.3290977
+"Columbus, OH, USA","Columbus, Franklin County, Ohio, United States",39.9622601,-83.0007065
+"Orange, CT, USA","Orange, South Central COG, Connecticut, 06477, United States",41.2784304,-73.0256609
+"Cincinnati, OH, USA","Cincinnati, Hamilton County, Ohio, United States",39.1014537,-84.5124602
+"Milano, TX, USA","Milano, Milam County, Texas, United States",30.7106407,-96.864745
+"Manhattan, KS, USA","Manhattan, Kansas, United States",39.1836082,-96.5716694
+"Palmer, AK, USA","Palmer, Matanuska-Susitna, Alaska, 99645, United States",61.5995703,-149.11109
+"Plymouth, MN, USA","Plymouth, Hennepin County, Minnesota, United States",45.0065149,-93.46651
+"Portland, ME, USA","Portland, Cumberland County, Maine, United States",43.6610277,-70.2548596
+"Morris Plains, NJ, USA","Morris Plains, Morris County, New Jersey, United States",40.8364845,-74.47818854051508
+"Columbus, IN, USA","Columbus, Bartholomew County, Indiana, United States",39.2014405,-85.9213796
+"Burlingame, CA, USA ","Burlingame, San Mateo County, CAL Fire Northern Region, California, United States",37.5780965,-122.3473099
+"Wichita, KS, USA","Wichita, Sedgwick County, Kansas, United States",37.6922361,-97.3375448
+"Emeryville, CA, USA","Emeryville, Alameda County, CAL Fire Northern Region, California, 94608, United States",37.8314089,-122.2865266
+"Headland, AL, USA","Headland, Henry County, Alabama, 36345, United States",31.351284,-85.3421559
+"Atlanta, GA, USA ","Atlanta, Fulton County, Georgia, United States",33.7489924,-84.3902644
+"Seattle, WA, United States","Seattle, King County, Washington, United States",47.6038321,-122.330062
+"Reston, VA, United States","Reston, Fairfax County, Virginia, United States",38.955696,-77.34188283719988
+"Springdale, SC, USA","Springdale, Lancaster County, South Carolina, 29721, United States",34.6885865,-80.78273872379778
+"Montgomery, AL, USA","Montgomery, Montgomery County, Alabama, United States",32.3669656,-86.3006485
+"North Wales, PA, USA ","North Wales, Montgomery County, Pennsylvania, United States",40.2109404,-75.2782317
+"Indianapolis, IN, USA","Indianapolis, Marion County, Indiana, United States",39.7683331,-86.1583502
+"Texas, USA ","Texas, United States",31.2638905,-98.5456116
+"Madison, WI, USA","Madison, Dane County, Wisconsin, United States",43.074761,-89.3837613
+"Provo, UT, USA","Provo, Utah County, Utah, United States",40.2337289,-111.6587085
+"Pennsylvania, USA","Pennsylvania, United States",40.9699889,-77.7278831
+"Woodbury, MN, USA","Woodbury, Washington County, Minnesota, United States",44.919896,-92.9339449
+"St Paul, MN, USA","Saint Paul, Ramsey County, Minnesota, United States",44.9497487,-93.0931028
+"Blacksburg, VA, USA","Blacksburg, Montgomery County, Virginia, United States",37.2296566,-80.4136767
+"Fargo, ND, USA","Fargo, Cass County, North Dakota, United States",46.877229,-96.789821
+"Ann Arbor, MI, USA","Ann Arbor, Washtenaw County, Michigan, United States",42.2681569,-83.7312291
+"Boulder, CO, USA ","Boulder, Boulder County, Colorado, United States",40.0154155,-105.270241
+"Ames, IA, USA","Ames, Story County, Iowa, United States",42.0267567,-93.6170448
+"Chapel Hill, NC, USA","Chapel Hill, Orange County, North Carolina, United States",35.9131542,-79.05578
+"Marietta, GA, USA","Marietta, Cobb County, Georgia, United States",33.9528472,-84.5496148
+"Carrollton, TX, United States","Carrollton, Dallas County, Texas, United States",32.9537349,-96.8902816
+"New Albany, OH, USA","New Albany, Plain Township, Franklin County, Ohio, 43054, United States",40.0811745,-82.8087864
+"Frisco, TX, USA","Frisco, Collin County, Texas, United States",33.1506744,-96.8236116
+"Titusville, PA, USA","Titusville, Crawford County, Pennsylvania, United States",41.624468,-79.669652
