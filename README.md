@@ -1,16 +1,34 @@
-# data_madness
-Data Science Job Market Analysis
+# Data Science Job Market Analysis
 
 This repository serves as a complete analysis of the Data Science Job Market as of March 2023, as a prospective salary
 indicator and skills checklists for students graduating from the Bachelor of Advanced Computing Sciences (DACS) at 
 Maastricht University, the Netherlands. 
-****
+
+## Contents
+1. [Research Scope](https://github.com/trav-d13/data_madness/README.md#research-scope) 
+2. [Results](https://github.com/trav-d13/data_madness/README.md#results) 
+3. [Implementation](https://github.com/trav-d13/data_madness/README.md#implementation)
+   1. [Data Collection](https://github.com/trav-d13/data_madness/README.md#implementation)
+   2. [Data Cleaning](https://github.com/trav-d13/data_madness/README.md#implementation)
+   3. [Exploratory Data Analysis and Modelling](https://github.com/trav-d13/data_madness/README.md#implementation)
+4. [Reproduceability](https://github.com/trav-d13/data_madness/README.md#reproduceability)
+   1. [Dependencies](https://github.com/trav-d13/data_madness/README.md#reproduceability)
+   2. [Troubleshooting](https://github.com/trav-d13/data_madness/README.md#reproduceability)
+
+## 1. Research Scope
 Key research questions of the analysis include: 
 1. What is the expected salary of a graduating DACS student in the current job market? 
 2. What are skills in high demand in the current job market
 3. How has DACS prepared students to enter the job market, in terms of in demand skills. 
 
-### Findings
+## 2. Results
+
+## Video Demonstration
+This video provides a short 2-minute overview of the completed analysis and discoveries. 
+
+[![Demo Video](http://img.youtube.com/vi/72cyQKITGjs/0.jpg)](https://youtu.be/72cyQKITGjs)
+
+The key points and graphs are listed below
 
 ![Geographic Distribution](resources/geo_distribution.png)
 
@@ -47,13 +65,11 @@ Three models were trained to generate an estimate salary from a set of skills/ t
 1. LassoCV Regression model
 2. Decision Tree
 3. Random Forest Model
-The best performing model is the Random Forest, with a redidual of approximately 10000 Euros in its predictions. 
 
-For further information on the above visualizations and more indepth explanations, please review [eda.ipynb](eda.ipynb)
+The best performing model is the Random Forest, with a redidual of approximately 10000 Euros in its predictions. For further information on the above visualizations and more in-depth explanations, please review [eda.ipynb](eda.ipynb)
 
-
-## Project Structure
-### Data Collection
+## 3. Implementation
+### i. Data Collection
 The data collection makes use of [SerpAPI](https://serpapi.com/), a freely accessible web-scraping tool, allowing 
 scraping of multiple search engines including Google. This was utilized to target Google Job listings in order to gather 
 current Data Science job offerings.
@@ -61,7 +77,7 @@ current Data Science job offerings.
 The Jupyter Notebook performing data extraction is `collection.ipynb`
 The collected data is stored in `data.csv`.
 
-### Data Cleaning 
+### ii. Data Cleaning 
 The scraped Google job listings are returned in an unstructured format. Multiple cleaning processes are required in order 
 to generate meaningful data, ranging from NLP Question and Answer models, skill keyword extraction, and dealing with 
 outliers, missing values, etc. 
@@ -72,42 +88,30 @@ The cleaned data is stored in `data_clean.csv`.
 Note: At each stage of the data cleaning, the data is stored in order to avoid repeated computation. 
 These interim stores include: `data_cache/data_salaries.csv`, `data_cache/data_countries.csv`, `data_cache/data_country.csv`, `data_salaries`.
 
-### EDA and Modelling
+### iii. Exploratory Data Analysis and Modelling
 The data was explored further using EDA techniques and prepared for modelling purposes. 
 Three models were utilized, a standard Linear Regression model using Lasso Regularization, 
 a Decision Tree Regression Model, and a Random Forest Regression Model. 
 
 The Jupyter Notebook performing the EDA and Modelling is `eda.ipynb`. 
 
-### Notes and Proptypes
-This directory contains initial attempts at the now final processes includes in the steps above. 
+## 3. Reproduceability
+To reproduce the research at a future date, all the code has been open-sourced and provided for free under a MIT public licence for non-commerical activities.
 
-## Video Demonstration
-This video provides a short 2-minute overview of the completed analysis and discoveries. \
-Link: https://youtu.be/72cyQKITGjs 
-
-
-
-## Project Setup
-### Conda
-Setup conda environment from file:
+### i. Dependencies
+To ease setup a conda environment file has been used such that all dependencies can be installed from file:
 ```
 conda env create -f data_madness_env.yml
 ```
 
-and then activate the environment as ususal:
+After creating, activate the environment:
 ```
 conda activate data_madness
 ```
 
-Before pushing code, if you have made changes to the environment, run the following:
-```
-conda env export > data_madness_env.yml
-```
+### ii. Troubleshooting
 
-### Troubleshooting
-
-#### 1. GoogleSearch import fails with conda environment
+#### GoogleSearch import fails with conda environment
 
 If an error occurs in
 ```
