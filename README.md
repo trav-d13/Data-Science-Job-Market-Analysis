@@ -1,5 +1,4 @@
-# data_madness
-Data Science Job Market Analysis
+# Data Science Job Market Analysis
 
 This repository serves as a complete analysis of the Data Science Job Market as of March 2023, as a prospective salary
 indicator and skills checklists for students graduating from the Bachelor of Advanced Computing Sciences (DACS) at 
