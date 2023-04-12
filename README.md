@@ -82,10 +82,8 @@ The Jupyter Notebook performing the EDA and Modelling is `eda.ipynb`.
 This directory contains initial attempts at the now final processes includes in the steps above. 
 
 ## Video Demonstration
-This video provides a short 2-minute overview of the completed analysis and discoveries. \
-Link: https://youtu.be/72cyQKITGjs 
-
-
+This video provides a short 2-minute overview of the completed analysis and discoveries. 
+[![Demo Video](http://img.youtube.com/vi/72cyQKITGjs/0.jpg)](https://youtu.be/72cyQKITGjs)
 
 ## Project Setup
 ### Conda
